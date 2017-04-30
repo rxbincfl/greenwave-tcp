@@ -1,0 +1,4123 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/cellpress.png
+SHA1-Digest: Eq0mKhlzVN2Ea1AORJi/YeDXDzg=
+
+Name: res/layout/sccreatedevicecontroloption.xml
+SHA1-Digest: FYXyJQpyIcu3NPuQktFkf0ZKi18=
+
+Name: res/drawable-ldpi/wifi_signal.png
+SHA1-Digest: fdpl6EiquH+4RpaIE5pJLOXrcPs=
+
+Name: res/drawable-hdpi/bgload6.png
+SHA1-Digest: YXItVeHjvcsykDj9C20qhRvAX3U=
+
+Name: res/drawable-hdpi/bg6port5.png
+SHA1-Digest: NMMW6JGUogDdVrIXh2aDZOaIH28=
+
+Name: res/drawable-ldpi/bgiconroom9.png
+SHA1-Digest: t0iazcR/3ZY/eoEc8h8Xqo57rcI=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: UUeGKfmWgJl/rutroPXP57LpkoU=
+
+Name: res/drawable-hdpi/celltopwhitepress.png
+SHA1-Digest: V9JIgKQWVi+9qMnl6fFTEmmdeIs=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: res/drawable-xhdpi/connectlightinglridgelist.png
+SHA1-Digest: Zkm5tAAh1l4KTOfBEoqFae2fyfQ=
+
+Name: res/drawable-mdpi/btnscenehome.png
+SHA1-Digest: qgeo+bEUED2rD855SZMRunUL28A=
+
+Name: res/drawable-ldpi/customicon13.png
+SHA1-Digest: bIf0MSh3TuWzxxr+HgWXkUKWHK4=
+
+Name: res/drawable/room6roundedcellshape.xml
+SHA1-Digest: rWMw/bh761cY7EsBcS0Iax5IFeE=
+
+Name: res/drawable-hdpi/btnpress.png
+SHA1-Digest: zzbitI8wNGewxhHGDk8CCBTHQh8=
+
+Name: res/drawable-mdpi/tabmyhomeselected.png
+SHA1-Digest: 5DSn1jMP5zB9De5f7GrMS9YJHpk=
+
+Name: res/drawable-xhdpi/ic_wifi_medium.png
+SHA1-Digest: yBvLDILUTp6hZYjIWtpJ5uEGnfY=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: bENWi8ZugwD88Ech+3ZELNcC/Kw=
+
+Name: res/drawable-mdpi/roombar27.png
+SHA1-Digest: IRV4D8ZA0yA7eHnjFGOe9p3bfz4=
+
+Name: res/drawable/tab_text_selector.xml
+SHA1-Digest: Wqo9Qdp0D8IafzZ7U9vyn93ifHs=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: UUeGKfmWgJl/rutroPXP57LpkoU=
+
+Name: res/drawable-hdpi/cellmiddlewhitenorm.png
+SHA1-Digest: /C9HkykRL7dI9N9G9bf/uTHi7c0=
+
+Name: res/drawable-ldpi/bgloadbig7.png
+SHA1-Digest: sT4b43n7/uyuKJBVMuVVlOy/0bs=
+
+Name: res/drawable-hdpi/bridge_refresh.png
+SHA1-Digest: OywEADNqO+nuzk2nE8WoSYkJKNE=
+
+Name: res/drawable-ldpi/ic_right_arrow.png
+SHA1-Digest: 4Q45l4vg5b0jjMJby/wOiLePhtg=
+
+Name: res/drawable-mdpi/bgsetupwizard.png
+SHA1-Digest: JubsSsZT7oQtsAnv5eY4pxGvwKY=
+
+Name: res/drawable-ldpi/cellnorm.png
+SHA1-Digest: 78kY9XDmTOp7IXDWY2bX9WnhvmI=
+
+Name: res/layout/mylightsroomrow.xml
+SHA1-Digest: FV+QSWv3p4vLbo0z3Q0e2wwGlS0=
+
+Name: res/drawable-xxhdpi/connectlightinglridgelist.png
+SHA1-Digest: Ey7kXLhHVpPeyxnQ0rTBSQbgxhA=
+
+Name: res/drawable-mdpi/bgpickercoversmall.png
+SHA1-Digest: L2l4dDWOCnSPK/vvnwDsqDNPT00=
+
+Name: res/drawable-xxhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: QITJ8CHL6O6NtaNSW5zIXy1Z3PY=
+
+Name: res/drawable-xhdpi/wirelesstroubleshoot_step1.png
+SHA1-Digest: Y/MGRIoYD3U53uDQfo+3VXcqB2M=
+
+Name: res/drawable-hdpi/customiconled.png
+SHA1-Digest: 0oMZq1MxUK/wwqScAyvxOB/XasU=
+
+Name: res/drawable-ldpi/bgiconroom12.png
+SHA1-Digest: oIaiV+qYVfBFxosXRTEA9EwvnYY=
+
+Name: res/layout/bridge_wireless_loading.xml
+SHA1-Digest: VodLJvnWzaiPbVtXKehRm5q+FDk=
+
+Name: res/drawable-ldpi/customicon4.png
+SHA1-Digest: NLCXQ/+5ouRM70O6hmVRCFof0Gk=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.
+ 9.png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: FkxxTiMZkZMXGXmeMfd02TtKL64=
+
+Name: res/drawable-xhdpi/settingssearch3.png
+SHA1-Digest: V293PFLABh9rBjTIbyhMdxJ6fVg=
+
+Name: res/drawable-hdpi/rainy.png
+SHA1-Digest: OJKNe3srWQZf/GF+U9tS1TKw3rw=
+
+Name: res/drawable-ldpi/tabsmartcontrolselected.png
+SHA1-Digest: ntKqJNVV/fnPKDyYyfDIE0Y7qlA=
+
+Name: res/drawable-mdpi/bgshadowtop.png
+SHA1-Digest: BFEwIGDVcVzGYhbhBa+Xi7gNK/U=
+
+Name: res/drawable-ldpi/zroom_05.png
+SHA1-Digest: wucKG5PLy9xVQHtlhp1heD3bKCI=
+
+Name: res/drawable-hdpi/customicon8.png
+SHA1-Digest: 0KtjiH78QJuAA3QSO7ghVAaQyTA=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 5yTFZLZtCPpeiVFtQvpG2K4xDdE=
+
+Name: res/drawable-ldpi/bgpoweroff.png
+SHA1-Digest: A7dSepgQ7ItECbwNY+5b4rjLVLE=
+
+Name: res/drawable-hdpi/roomicon2.png
+SHA1-Digest: N2LM/ROUoqesrYIJZQl6RTCJnpY=
+
+Name: res/drawable-ldpi/bgheaderbar.png
+SHA1-Digest: HTdiz/lILqcAIjPbMSWpGgwhI+4=
+
+Name: res/drawable-xxhdpi/ic_delete_sc.png
+SHA1-Digest: UWOyDvtnQdvBufbBhM+7tLX9St8=
+
+Name: res/layout/editingname.xml
+SHA1-Digest: o4vxniH5d2k1RTTzTr8XJ1dE4d0=
+
+Name: res/drawable-ldpi/bgiconroom15.png
+SHA1-Digest: 0QuU6nw/8wASCrJJzDxwl9wonKc=
+
+Name: res/drawable-hdpi/buttoncheckboxchecked.png
+SHA1-Digest: PFWv1KwK3/IUdhe41ZDdTlXXCk4=
+
+Name: res/drawable-hdpi/customicon3.png
+SHA1-Digest: V7NZQCgIPsDmQbKExNqmjGnjBwY=
+
+Name: res/drawable-hdpi/ic_thddark.png
+SHA1-Digest: 7dxpBShTdAswg7plkgDMheQiPno=
+
+Name: res/drawable-hdpi/customicon31.png
+SHA1-Digest: 0Dj5/mGXC8bRIxcZh5H/T1YDEKg=
+
+Name: res/drawable-ldpi/tabmylightsunselected.png
+SHA1-Digest: 9Qc+3Vn72363Qe6BHL+cjtPhtzc=
+
+Name: res/drawable-ldpi/light.png
+SHA1-Digest: 5zWBRVWdNxI2a2cVf//t6t2Ia6o=
+
+Name: res/drawable/btndimmerselector.xml
+SHA1-Digest: Cwq/zpl83F/w2dUftj6cD/jMOZU=
+
+Name: res/drawable-hdpi/roomicon20.png
+SHA1-Digest: yo/OTtpb55CtsRIwVa+Jp7OUERc=
+
+Name: res/drawable-ldpi/settingssearch3.png
+SHA1-Digest: e0KosbgXYIZBD4gurVcwh792kHc=
+
+Name: res/drawable-ldpi/vacation.png
+SHA1-Digest: sHxuwN8IWJLnU3T7ozqsQ4wLasg=
+
+Name: res/drawable-hdpi/customicon18.png
+SHA1-Digest: Lyg7MwLyksLOpFznYo0t9I6pCsc=
+
+Name: res/drawable-xxhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: 5jta9QUYJ9k9tMHwzhYqoefVy+o=
+
+Name: res/drawable-mdpi/buttondelete.png
+SHA1-Digest: jCT3P4YC+o3p5QJfBjkDNv4H57E=
+
+Name: res/drawable-xxhdpi/ic_secure.png
+SHA1-Digest: 7ynPTLRp6hI0AI33hqDxj9l86dY=
+
+Name: res/layout/smartcontrolactivating.xml
+SHA1-Digest: 9l5kBjEwGvbXpHiyBw1gn00G1Rw=
+
+Name: res/drawable-mdpi/roombar17.png
+SHA1-Digest: p4BRtKEPPHUbYGOuGlkM4O47ujM=
+
+Name: res/drawable-hdpi/ic_sunrise.png
+SHA1-Digest: d+EJB12i6k5mgrBnbK1i9vkCppk=
+
+Name: res/drawable-hdpi/cellroomnorm4.png
+SHA1-Digest: kIwr0AiHfFSqlx8hJfcAqxx8zDE=
+
+Name: res/drawable-xxhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: GsuPJv1dNcolfrnKEL4GX2NHRmk=
+
+Name: res/drawable-hdpi/bgshadowtop.png
+SHA1-Digest: My8X7G6BwIf3ZNIOYCliVMdmhfE=
+
+Name: res/drawable-xxhdpi/ic_sunset.png
+SHA1-Digest: s48qq4vMCsTLwztcL47lD/I73MM=
+
+Name: res/drawable-xxhdpi/ic_preview.png
+SHA1-Digest: KAlARysWy2QTse2QTo5KbdagvhU=
+
+Name: res/drawable-sw600dp/roomicon3.png
+SHA1-Digest: mTdtR66oaM+uTIA0QroarA5t5V4=
+
+Name: res/drawable-ldpi/dim.png
+SHA1-Digest: WquWrldgxCc1vw+Y5lAp1G2bbpk=
+
+Name: res/drawable-hdpi/customicon11.png
+SHA1-Digest: 4uM0YempJpMqa9RSYk+4b6lhw+s=
+
+Name: res/drawable-hdpi/bulbofflinesymbol.png
+SHA1-Digest: oN0u74dntnUeK5OUn1yeLj7FL9s=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: oslddavjaxT0f8U4Mn8PG9Z+jNM=
+
+Name: res/drawable-ldpi/bgdialroom1.png
+SHA1-Digest: FiTt8FN4hb3XVzn6q86RqxdlA8s=
+
+Name: res/raw/tock.m4a
+SHA1-Digest: pzw1BVQTcjbnwxVwv8yMLKO0R7o=
+
+Name: res/drawable-ldpi/bgtopbar8.png
+SHA1-Digest: 18u5LYz8yFPYj2OywIPNFMFbyvg=
+
+Name: res/anim/bounceup.xml
+SHA1-Digest: e43SzAv0E2mFaMe04Zu1Y3hxGuM=
+
+Name: res/drawable-ldpi/bgiconroom4.png
+SHA1-Digest: UnMs8kP6HLfoQ1V0G6HYewQdxPg=
+
+Name: res/layout/smartcontrol.xml
+SHA1-Digest: PqUhz25P+WoLVYMzvXwsw3ol0Yc=
+
+Name: res/drawable-mdpi/bgdialroom5.png
+SHA1-Digest: RxjDs5R4G4O9526q3bku4s8cesM=
+
+Name: res/drawable-hdpi/roomicon18.png
+SHA1-Digest: SscYCLttbA3lCZdSOvWFZZ0tbwk=
+
+Name: res/drawable-mdpi/bulbtextbg.png
+SHA1-Digest: H2e3mbWUIJ+l3IxYoeW2B7uUQbk=
+
+Name: res/drawable/roundedbuttonpressshape.xml
+SHA1-Digest: MIyS/L/9e+XDOSAHkSY09YCQOFo=
+
+Name: res/drawable-mdpi/bgrefreshicon.png
+SHA1-Digest: zDrDz9WDINMyFy4jFzM96CnD3eY=
+
+Name: res/layout/mylightsroompaneldefault.xml
+SHA1-Digest: dY9PVUwD4u1hSLn8JGbWc7tlmX0=
+
+Name: res/drawable-hdpi/washing_machine.png
+SHA1-Digest: lYuv6FHBIsnSvJ00ka2M7J8ZNJE=
+
+Name: res/drawable-ldpi/bgsetupthermostat.png
+SHA1-Digest: wFMVzBs+iByIKU6gv0w1eb+a6SE=
+
+Name: res/drawable-sw720dp/roomicon8.png
+SHA1-Digest: funbuBLIzFn6L6GhJsYA0A22M0o=
+
+Name: res/menu/loginmenu.xml
+SHA1-Digest: NApX69Dyj1X14A8MwEAaDq/tyaA=
+
+Name: res/drawable-hdpi/left_swipe_arrows.png
+SHA1-Digest: fRQDbIvpgomuYQrlmDkroaf1HFs=
+
+Name: res/drawable-mdpi/bgtopbar3.png
+SHA1-Digest: 4avQvRUAVv6LEW8roHd2UJBl/1I=
+
+Name: res/drawable-hdpi/fan_cool.png
+SHA1-Digest: 4uM0YempJpMqa9RSYk+4b6lhw+s=
+
+Name: res/layout/sccreateeditschedule.xml
+SHA1-Digest: fm9G99sbws329rHCV02YBVQl3SU=
+
+Name: res/drawable-ldpi/btndimmerpress.png
+SHA1-Digest: 1YU1aBJYaVXa73dDmOs90BwiGMM=
+
+Name: res/drawable-hdpi/bgrefreshicon.png
+SHA1-Digest: oVgXYJ/g0mrhmjmCHBkyI7ozye0=
+
+Name: res/drawable-hdpi/bgiconroom30.png
+SHA1-Digest: 4g/wjdtupHd2FNw2H/bsZOQlxcc=
+
+Name: res/drawable-mdpi/ic_wifi_medium.png
+SHA1-Digest: tZiacBq5vdtEilbqXRm4cr1NfvE=
+
+Name: res/drawable-mdpi/refresh_icon.png
+SHA1-Digest: Y9dwLIbiyyle+FhaS4eMRaoJDIA=
+
+Name: res/drawable-mdpi/bgtopbar4.png
+SHA1-Digest: igYO1U749DWJHIMoA+rcPtFLL30=
+
+Name: res/layout/widget_myhome_device_view_light.xml
+SHA1-Digest: 5m6aU7ScJLUb0oKZo+mbOcREyLY=
+
+Name: res/drawable-mdpi/roombar9.png
+SHA1-Digest: tWWCqNTo+/Pp6Ay5gIG670XSpHU=
+
+Name: res/layout/sccreateconfirm.xml
+SHA1-Digest: +1lu3df3MrQq3UG2ng+wF5lmcnU=
+
+Name: res/drawable-hdpi/bgiconroom0.png
+SHA1-Digest: 8JZG7eSItTJEdjBu0pG3EmOm7C0=
+
+Name: res/anim/bouncedown.xml
+SHA1-Digest: H7G2zWZ8A2+We2qsZhyiZ2+r2Q0=
+
+Name: res/drawable-ldpi/btnscenenight.png
+SHA1-Digest: +F6DU5ALTgvSfm9Wnq7Iknx6ZBc=
+
+Name: res/drawable-ldpi/room_swipe_arrow_left_active.png
+SHA1-Digest: T8fWjPXvd/+ExiBP8CAYHN78blc=
+
+Name: res/layout/thermostat_schedule_details.xml
+SHA1-Digest: wHmKUson9bamn56hdOM59rW2OgQ=
+
+Name: res/drawable-sw720dp/roomicon4.png
+SHA1-Digest: MqPeUpaee4iU0KD9ri/YRZZPxPI=
+
+Name: res/layout/wired_troubleshoot_ethernet_router.xml
+SHA1-Digest: NTqT8K1sQcIVsSFJoAftp0FUBUI=
+
+Name: res/drawable-mdpi/roombar0.png
+SHA1-Digest: NKnz8oI7RjIhM995TMObAO5lUPo=
+
+Name: res/drawable-hdpi/create_edit_light_bg_icon.png
+SHA1-Digest: jaUJy4oMCk6Z5UxkYfIRUQ7D6+w=
+
+Name: res/drawable-mdpi/bgload1.png
+SHA1-Digest: 7RiKdfkhe1mEo+ZuMrak77baHs8=
+
+Name: res/drawable/cellbottomselector.xml
+SHA1-Digest: cgiIrG6nH+XJcrOkVQHj7hYLvdM=
+
+Name: res/drawable-mdpi/bgload8.png
+SHA1-Digest: +lGZxXqeFSkxL6hRrIGIkP82Guo=
+
+Name: res/layout/settingsmanageroomsrow6.xml
+SHA1-Digest: LtyJjvRwdy9zazeJidz7XiLc/eg=
+
+Name: res/drawable-mdpi/bgtopbar7.png
+SHA1-Digest: QRQYchb0tIVnSckfQTA7r4jNLXk=
+
+Name: res/layout/widget_myhome_view_dark.xml
+SHA1-Digest: fGpLk2jAsGKKR36Cc1k1WUZK1g4=
+
+Name: res/drawable-hdpi/customicon23.png
+SHA1-Digest: OJKNe3srWQZf/GF+U9tS1TKw3rw=
+
+Name: res/layout/waitdialog.xml
+SHA1-Digest: aTLZr7DEMBs38YfZEnZwSPAMnzc=
+
+Name: res/drawable-ldpi/music.png
+SHA1-Digest: cmfDfKBc/alZMX5JlTjTEy1quu4=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9
+ .png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: res/drawable-hdpi/bgtopbar7.png
+SHA1-Digest: 66KEzasolwwe1QtlsYADE12WSQM=
+
+Name: res/drawable-hdpi/off_to_work.png
+SHA1-Digest: fnrF1NTAD5m7y0GaOFNKdK0tbdQ=
+
+Name: res/drawable-xhdpi/wiredtroubleshootplug.png
+SHA1-Digest: 7IEvnYplM+aFaYasES+ZKkUlTx0=
+
+Name: res/drawable-hdpi/tv.png
+SHA1-Digest: 2WUK3YJbA1FkSu0ISJ7DFysyGdM=
+
+Name: res/drawable-mdpi/save_scene.png
+SHA1-Digest: HTHxyrNg6r37oiR5N6dNtLZm8EA=
+
+Name: res/drawable-hdpi/bgpoweron.png
+SHA1-Digest: JworE6syAr5oA77DmM0TxKlt2i4=
+
+Name: res/drawable-mdpi/roomicon5.png
+SHA1-Digest: 9Bm8ofNm/ci3XE6tc7icfcQ4Lzw=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: s9R5e0selfux5m+UChtcECL/wTE=
+
+Name: res/drawable-hdpi/cellroomnorm5.png
+SHA1-Digest: jKM0X18IyGqGKinAh3uyV+RF6xs=
+
+Name: res/drawable-ldpi/back_normal.png
+SHA1-Digest: 1EScQg1YcYI5m6tA+inhaBb/BcA=
+
+Name: org/teleal/common/swingfwk/logging/img/warn.png
+SHA1-Digest: 5frBDTHx47ho7KUnxiN4KFXWuKI=
+
+Name: res/drawable-mdpi/btngreypress.png
+SHA1-Digest: FsXvSC4SD+3QIA0uSsxCK/as8hs=
+
+Name: res/layout/widget_myhome_layout.xml
+SHA1-Digest: BLYTED9gcwg1Yp4Xq0bwOnz5lnY=
+
+Name: res/drawable-mdpi/btngreynorm.png
+SHA1-Digest: WoPvIghQWIxM7flkbxt737VkS4I=
+
+Name: res/drawable-ldpi/bgloadbig3.png
+SHA1-Digest: 9/tnMqrJD1JC6qubSr07zLF7ERo=
+
+Name: res/drawable-xhdpi/next_pressed.png
+SHA1-Digest: QvtOsKe0fS3ivyIE2ccEXMW7fl4=
+
+Name: res/drawable/roundedcellshape.xml
+SHA1-Digest: fKy7vyYPVeEY1Ncd7Atq+rT6+4Y=
+
+Name: res/drawable-xxhdpi/ic_thddark.png
+SHA1-Digest: U5T9/MoDEPvay6dSilse024Yt30=
+
+Name: res/drawable-mdpi/securenetworksettings.png
+SHA1-Digest: iCk4WkSVA+CdzThD0K0s4la20ik=
+
+Name: res/drawable-hdpi/ic_sunset.png
+SHA1-Digest: 1svGhFOxW8k3URc/cwECQHvJIHk=
+
+Name: res/drawable-mdpi/settingssearch1.png
+SHA1-Digest: wgYobxWte/lVv+sN0WwHFk8UUzs=
+
+Name: res/layout/last_cell_item_row.xml
+SHA1-Digest: hDJ2+H/2OIar7cB9tobPgMjRWko=
+
+Name: res/drawable-hdpi/btnloginnorm.png
+SHA1-Digest: rnXrS/lgEOVsPspMW3zq8DIwxzA=
+
+Name: org/teleal/common/swingfwk/logging/img/trace.png
+SHA1-Digest: ohg6C+jzTxzrGT1yEwUel9VTczk=
+
+Name: res/drawable/btncloseselector.xml
+SHA1-Digest: 0litLZsSF505rW+i4G1jAi6FVQM=
+
+Name: res/drawable-hdpi/smartcontrolschedule.png
+SHA1-Digest: rtBWiPCgTWhfUbo5qz3Fo1ZzUGQ=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: +YXDOKcowsglHKYLvgWRriKCdQI=
+
+Name: res/drawable-mdpi/bgiconroom1.png
+SHA1-Digest: V9YTUL/jTA5j3hzEWeYR6fBvG0c=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: VuHJWuT/6iilvSab3F78/jbS8VQ=
+
+Name: res/drawable-mdpi/roomicon1.png
+SHA1-Digest: w3ntEvCwMms3xdG8ET3YdYIYstY=
+
+Name: res/drawable-ldpi/bgstep2complete.png
+SHA1-Digest: Ih+rm65jMh7NVP5SMmD3e0C1k6c=
+
+Name: res/drawable-hdpi/ic_remote_icon.png
+SHA1-Digest: afFUISDTHOVh/vFwe27FdEcaoJ4=
+
+Name: res/drawable-sw600dp/ic_sunset.png
+SHA1-Digest: s48qq4vMCsTLwztcL47lD/I73MM=
+
+Name: res/drawable-mdpi/btnpress.png
+SHA1-Digest: rIt6Abu4bfpG24wJF4UMX8tsfKM=
+
+Name: res/drawable-mdpi/system_information.png
+SHA1-Digest: t6AXTD07rblGG9Rfr7MaWQgeSZc=
+
+Name: res/drawable-mdpi/roomicon6.png
+SHA1-Digest: 8QiTe4bhwd1r3KCKFSAconIRmtc=
+
+Name: res/drawable-mdpi/back_normal.png
+SHA1-Digest: 2/S50omRCPKrPDxzp2OzUJDiPzk=
+
+Name: res/layout-small/dimmerpopup.xml
+SHA1-Digest: kbPd9jv1MmTtnQWWboVnR2njpd0=
+
+Name: res/drawable-ldpi/bgcustomalert.png
+SHA1-Digest: efXt813qzkYREyOfMpQvp4yCRqA=
+
+Name: res/drawable-hdpi/bgload7.png
+SHA1-Digest: JNkSd4TR2tpA9TmakuH+sWh5O/Y=
+
+Name: res/drawable-ldpi/bgiconroom16.png
+SHA1-Digest: /oDTSZjuXYYeBYPvF0VasPJbZ3Q=
+
+Name: res/drawable-mdpi/roombar18.png
+SHA1-Digest: 3FGBLxTBm7/Noh9/hKuzaZcsGfo=
+
+Name: res/drawable-hdpi/bgsetupthermostat.png
+SHA1-Digest: uvRyDLkWHWqooHbjyYlp/VyrkQE=
+
+Name: res/drawable/settingssearchanim.xml
+SHA1-Digest: MnGTP3qdLePVm2RNsHRwuLwxrt4=
+
+Name: res/drawable-ldpi/btnpress.png
+SHA1-Digest: rIt6Abu4bfpG24wJF4UMX8tsfKM=
+
+Name: res/drawable-hdpi/room_swipe_arrow_right_active.png
+SHA1-Digest: wZu7y48I+hVqNOFmfIoWMGtGP0k=
+
+Name: res/drawable-ldpi/bolt.png
+SHA1-Digest: 54iwQquCaACs1yp17lvrjtLzNWc=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: dF5oQhWFz2szuye4UCQeGH4CFRk=
+
+Name: res/layout/settingsoobesteps.xml
+SHA1-Digest: dyA9gvd/f4X+WtodKVzzwFsllLE=
+
+Name: res/drawable-hdpi/customicon22.png
+SHA1-Digest: fnrF1NTAD5m7y0GaOFNKdK0tbdQ=
+
+Name: res/layout/new_lights_found.xml
+SHA1-Digest: dcXouH+jmRsXKbKsEb8NONlogD8=
+
+Name: res/layout/settingsrow2.xml
+SHA1-Digest: EGRipfOJsCkLY0Xbz7IzJS83g7Q=
+
+Name: res/drawable/room3roundedcellshape.xml
+SHA1-Digest: BxSK7b7ldogGdOklHyEKcKUVE8Y=
+
+Name: res/drawable-ldpi/ic_sunrise.png
+SHA1-Digest: 78J/b2O9v77D6bxcTHND5e0rICo=
+
+Name: res/drawable-hdpi/bolt.png
+SHA1-Digest: 0Dj5/mGXC8bRIxcZh5H/T1YDEKg=
+
+Name: res/drawable/btndimmerpopupselector.xml
+SHA1-Digest: 54TNPYXhPgCXGc+ddogj94lK/BQ=
+
+Name: res/drawable-hdpi/tabsettingsunselected.png
+SHA1-Digest: K/ojK5zTc4axhal1HapWQJm0Yng=
+
+Name: res/drawable-hdpi/buttondelete.png
+SHA1-Digest: jCT3P4YC+o3p5QJfBjkDNv4H57E=
+
+Name: res/drawable-mdpi/home_depot_button.png
+SHA1-Digest: 9J2zUXOl2rnAtdXIagj7u/GigRU=
+
+Name: res/drawable-hdpi/roomicon26.png
+SHA1-Digest: yZY/Oll+sLImO73KTzaA3RcPG6Y=
+
+Name: res/drawable-hdpi/bgpickerselected.png
+SHA1-Digest: qFnoZZ32AWb5VAvAKDCNqKUAE/k=
+
+Name: res/xml-v14/preferences.xml
+SHA1-Digest: aJ1VPdAuw75bThXwzfM7Gx3bbsQ=
+
+Name: res/drawable-hdpi/bgstep2.png
+SHA1-Digest: +JOVnmnxJa0Ye/XGGyMWl3T1ERc=
+
+Name: res/drawable-hdpi/thermostat_oobe_found.png
+SHA1-Digest: Z1ScABlkfBDUBZtB73nB72f0IVY=
+
+Name: res/drawable-mdpi/btnsettingsnorm.png
+SHA1-Digest: ISmyKyplzIfTBi+ilKcJuRU4U9o=
+
+Name: res/drawable-ldpi/cellgreypress.png
+SHA1-Digest: XXaXfZtkZrMaWcNm7p4oB4sUEVE=
+
+Name: res/drawable-hdpi/waitindicatorbg.png
+SHA1-Digest: 4pJrO5zlNTA42pwq+sq9VRjIuBs=
+
+Name: res/drawable-mdpi/bgdialroom6.png
+SHA1-Digest: +aOgJ8XArlkk/igI3ZJMl8Q+wRw=
+
+Name: res/drawable-mdpi/smartcontrolschedule.png
+SHA1-Digest: nYSqbG76+7qgFQv624WVtwPKm/Y=
+
+Name: res/drawable-mdpi/bgiconroom2.png
+SHA1-Digest: JosStbVscm1f3UxMhRPrb9CRKZU=
+
+Name: res/drawable-hdpi/away.png
+SHA1-Digest: Zau8wS4heH844hQDeRq68d8vAJA=
+
+Name: res/drawable-hdpi/settingsaddlightsicon.png
+SHA1-Digest: 07hPI+8pWpthk+N3k8yaNnJrnYw=
+
+Name: res/drawable-hdpi/btnsceneaway.png
+SHA1-Digest: aYJYFf56ibccX/fszlO5OuMNlP0=
+
+Name: res/drawable-ldpi/wirelesstroubleshoot_step2.png
+SHA1-Digest: TNVqeoJ2gLVFYV7KLkTe0vJ6H28=
+
+Name: res/drawable-hdpi/bgbuttonpaneldefault.png
+SHA1-Digest: BNWpsu138tAXNGvN5BE/r3Terx4=
+
+Name: res/drawable-sw720dp/slider_background.png
+SHA1-Digest: O9dY7+dMD9wmY8l+KO3EXyb5+vw=
+
+Name: res/drawable-ldpi/settingssearch1.png
+SHA1-Digest: T+9jGKWa4tdLDLR8k0yVXB0P0SU=
+
+Name: res/drawable-ldpi/bgdeviceconfig.png
+SHA1-Digest: Z9lEnj9NnT47f8cvx0bl3DAigTI=
+
+Name: res/anim/licensenimation_enter.xml
+SHA1-Digest: JnXHhbn6DVv3kDUEGU2EpU5Bf4I=
+
+Name: res/layout/choose_lights_row.xml
+SHA1-Digest: UjYTDgJSUrrGQT4iprdHPanceWY=
+
+Name: res/drawable-hdpi/ic_secure.png
+SHA1-Digest: oEDUzNqjJUnaR1/iy49ZT5mjqe4=
+
+Name: res/drawable-hdpi/light.png
+SHA1-Digest: 0KtjiH78QJuAA3QSO7ghVAaQyTA=
+
+Name: res/xml-v11/listview_widget_info.xml
+SHA1-Digest: HYH+w5wjj96HP//aGiPSogBgVzc=
+
+Name: res/layout/lightsandfixtureschooseiconrow2.xml
+SHA1-Digest: 1y7gdUAlAXOI8zZnD0s98uS8ye0=
+
+Name: res/drawable-ldpi/off_to_work.png
+SHA1-Digest: IMhPp39BwuMRGahbHCG7WItEkWc=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: res/layout/settingsoobeidentifydevice.xml
+SHA1-Digest: W7S3576SvLKhD7VKq7BskQWjjSw=
+
+Name: res/drawable-ldpi/btndimmernorm.png
+SHA1-Digest: 1otzy4BnWzLXNZOnobnkkd0rosg=
+
+Name: res/drawable-mdpi/bgstep2complete.png
+SHA1-Digest: /S98kkHY6BvbyJSQc79HUs5YJ+g=
+
+Name: res/layout/tab2.xml
+SHA1-Digest: X3y8lBVrX2x25jqLo8/b4+FBTvw=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: AT9w5rSAMWW0uoROEE4O/DyXQj4=
+
+Name: res/drawable-hdpi/bgiconroom6.png
+SHA1-Digest: Cblr3laMaXJngkWo2wI3BsaEDio=
+
+Name: res/drawable/btnnextselector.xml
+SHA1-Digest: INA7TUD2Ki9NezshBFA8h1qk6FQ=
+
+Name: res/drawable-ldpi/customicon10.png
+SHA1-Digest: rzzpB5dvWPn87/kGQlel4iCSRb8=
+
+Name: res/layout/oobe_thermostat_create_new_room_layout.xml
+SHA1-Digest: 1SUEDJy0aKdN3hwkWRZjN1g7D58=
+
+Name: res/drawable-hdpi/wifi_signal.png
+SHA1-Digest: WsX1+i21XixEPRqncDaq5xTyYWo=
+
+Name: res/drawable-ldpi/thermostat.png
+SHA1-Digest: HwTCgnZQ3ZDQXN6q0jUyB4nSn5A=
+
+Name: res/drawable-ldpi/bgpickercoversmall.png
+SHA1-Digest: f/HRvzRIXx+Le9SrzZnjtKGZNwg=
+
+Name: res/drawable-ldpi/tabmylightsselected.png
+SHA1-Digest: hE2V2Cr8QhPziAWF/FYB2QsqI5o=
+
+Name: res/drawable-ldpi/bgrefreshicongrey.png
+SHA1-Digest: pdX2q42imsTKkFq7p5RkLR1DWzs=
+
+Name: res/drawable-sw600dp/ic_sunrise.png
+SHA1-Digest: F8N4x/lfxYuuXsrqi6RL3Pk4kEY=
+
+Name: res/drawable-mdpi/bgload4.png
+SHA1-Digest: 4mrffAO+QYKhjlnrXzzQ9kdmsYU=
+
+Name: res/drawable-hdpi/night.png
+SHA1-Digest: 9wPe352TnCJQ9tS0WEzQNTDAQsg=
+
+Name: res/drawable-hdpi/smartcontrolcustom.png
+SHA1-Digest: GDBucqkgU2RRM9IHlo1ljaixEyM=
+
+Name: res/anim/slideleftin.xml
+SHA1-Digest: r7CJwXKFmTesMNtoDWD4Nra825c=
+
+Name: res/drawable-ldpi/bgiconroom30.png
+SHA1-Digest: zYN6T05prJaTx5ykAz/IWufyFw0=
+
+Name: res/drawable-sw600dp/roomicon2.png
+SHA1-Digest: N2LM/ROUoqesrYIJZQl6RTCJnpY=
+
+Name: res/drawable-xhdpi/guide_right.png
+SHA1-Digest: abKvaCJbxaSPGJ3IMmkrc4Q7uKk=
+
+Name: res/drawable-hdpi/customicon19.png
+SHA1-Digest: lYuv6FHBIsnSvJ00ka2M7J8ZNJE=
+
+Name: res/drawable/roundedbottomcellshape.xml
+SHA1-Digest: SqP65ihlFyS1bDL8UL0nJ1dDlwE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: re+zLFhPUMSpBod/+8AnbiOF95E=
+
+Name: res/layout/new_edit_light_row.xml
+SHA1-Digest: HP2Hi0oBZmiTw28BEzskc8YmhJI=
+
+Name: res/drawable-hdpi/customiconcfl.png
+SHA1-Digest: +xhyIuEKFevwT/OclbVFCygyvtI=
+
+Name: res/drawable-hdpi/bgloadbig5.png
+SHA1-Digest: qrbSJp1bdbhTS2jboBYLQtD4mKc=
+
+Name: res/drawable-hdpi/btngreypress.png
+SHA1-Digest: dUop2JQH7Tf0atK4dfDEA7w1S0U=
+
+Name: res/drawable-mdpi/wirelesstroubleshoot_step2.png
+SHA1-Digest: vtwH/HGGxnhwE2xu1lGGXRrhpqA=
+
+Name: res/drawable-mdpi/bgtopbar1.png
+SHA1-Digest: di8NYR48C+xzyWlg7RQIFD6FwEA=
+
+Name: res/drawable-hdpi/bgrefreshicongrey.png
+SHA1-Digest: ZTdgtmH2KifOQLY7a1bGghlgiwY=
+
+Name: res/drawable-hdpi/customicon4.png
+SHA1-Digest: 9Mlcgc6fwGACLf3TpfYYCGtA9Ws=
+
+Name: res/drawable-ldpi/room_swipe_arrow_left_disabled.png
+SHA1-Digest: QsrZpH/kRWVSwPskswYdXZVEWp0=
+
+Name: res/drawable-ldpi/bridge_light.png
+SHA1-Digest: bGUuooMw7rnztUlWd7/5gb+hVtA=
+
+Name: res/drawable-ldpi/bgiconroom21.png
+SHA1-Digest: DwLfQNaPtrPkXEb+UP29uKd9g/A=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/drawable-hdpi/customicon12.png
+SHA1-Digest: hzLlPVUbEZZecI3vc34bhazEqZM=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: J3redgNWXm7z6pt+2/U1/KD7vXc=
+
+Name: res/drawable-mdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: xWYT0qzRVNaGybBaBeMKbeGgkgE=
+
+Name: res/drawable-ldpi/tabsettingsselected.png
+SHA1-Digest: cuhzyIng+nTmaM5hLa2kWiimMg8=
+
+Name: res/drawable-ldpi/customicon6.png
+SHA1-Digest: zOS1qj2fshg74sogK2hRptmkrmM=
+
+Name: res/drawable-mdpi/bgstep2under.png
+SHA1-Digest: afdPF7LU1N2lvyUenyX3LaMl3+U=
+
+Name: res/drawable-mdpi/bgdialroom4.png
+SHA1-Digest: SQYcO42BMijctm5K6ObT07as5Ns=
+
+Name: res/drawable-hdpi/waitindicatoranim.png
+SHA1-Digest: O8Xc/qnN9BVom/h2HR6yIx+JY/Q=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: vgTn+pEQhSLa5buaCqjDd3w3UWU=
+
+Name: res/drawable-mdpi/bgiconroom13.png
+SHA1-Digest: tcdq1eNYaPorpqsvzrA10/Z+D/4=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: rk4+RrLhcP6lThhrsLhux6sOaW0=
+
+Name: res/drawable/roundedcellflatcolorshape.xml
+SHA1-Digest: uqVtz5xC33bpXRe5rqdTUQPdhBU=
+
+Name: res/drawable-hdpi/bgiconroom11.png
+SHA1-Digest: wzuoDSGy4wn/biYvjo7+u7uCnic=
+
+Name: res/drawable-hdpi/bgdeviceoptions.png
+SHA1-Digest: 9KepWcmltAijS4u6Yqmk59+DRB8=
+
+Name: res/drawable-mdpi/bgidentifyunder.png
+SHA1-Digest: oaaJKGk3uC8xqHXpLcRqGoRfnEU=
+
+Name: res/drawable-hdpi/customicon26.png
+SHA1-Digest: ncg4xD93MflFFtjDz4JxK5OeGlI=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: WLh2VD/d7MWjqaSdwF4hndXV7g0=
+
+Name: res/drawable-ldpi/bgload7.png
+SHA1-Digest: pwtFIX1bvefbnmmk/aAPxqFI6Mw=
+
+Name: res/drawable-ldpi/customicon7.png
+SHA1-Digest: z4DF404kStboSNS6D4Ad4//5C1I=
+
+Name: res/drawable-mdpi/bg6port5.png
+SHA1-Digest: k/SKPEtpBCmN8uPfkw2NJ/8Cq4Q=
+
+Name: res/drawable-xhdpi/thermostat_oobe_found.png
+SHA1-Digest: MVDudlDLhg1vfzk5+ld/X/6DsXI=
+
+Name: res/drawable-ldpi/bgbuttonpaneldefault.png
+SHA1-Digest: B49+c1FYmLj9557gxa2geCcZoj8=
+
+Name: res/drawable-hdpi/roomicon13.png
+SHA1-Digest: WycHI2KTrQhGsTSu6kZcFBW7xeo=
+
+Name: res/drawable-hdpi/bgpickercoversmall.png
+SHA1-Digest: 2F3KjkVyjRGcST3UOA3ymefOHvs=
+
+Name: res/drawable-ldpi/bg5port4.png
+SHA1-Digest: UXtpZg06fmkrmkUH3y47VKilEoA=
+
+Name: res/drawable-ldpi/connectlightinglridgelist.png
+SHA1-Digest: lXthlYlJRfb0LKwz2O7nH75PgyY=
+
+Name: org/teleal/common/swingfwk/logging/img/copyclipboard.png
+SHA1-Digest: s/ZwgDMBd/WNBtXUr+zAQ7jSDgU=
+
+Name: res/drawable-hdpi/bgtopbar3.png
+SHA1-Digest: dBUr23ydNM5TWEcL2LEqVAWV/fA=
+
+Name: res/drawable-mdpi/roombar16.png
+SHA1-Digest: fPDTwwNn7vMLD2Juj2Ijmf8N3Bs=
+
+Name: res/layout/bridge_wireless_troubleshoot.xml
+SHA1-Digest: YpcqY4fWojhv0X6tkGPr9vvppLs=
+
+Name: res/drawable-xhdpi/ic_wifi_low.png
+SHA1-Digest: SbnLoWeMeZ3PJ1DUiB1hjus/DG4=
+
+Name: res/drawable-mdpi/roombar1.png
+SHA1-Digest: dVWisDHVn8sAeosHFPNS3isBcx0=
+
+Name: res/drawable-mdpi/bgiconroom26.png
+SHA1-Digest: TJFMrjrm156PuFhMsqsNDaDQ7YE=
+
+Name: res/drawable-hdpi/bgidentifyunder.png
+SHA1-Digest: y1N3cOjHAyq1LOLat1rJ+cDRfzc=
+
+Name: res/drawable-hdpi/roomicon10.png
+SHA1-Digest: WngN8RUt4shaWJuDzMJ7pdKCdKg=
+
+Name: res/drawable-hdpi/customicon30.png
+SHA1-Digest: 1h7Sr6TTVEthhts7HSFs8rtKpV4=
+
+Name: res/drawable-mdpi/bgdeviceconfig.png
+SHA1-Digest: PnVUmYRtShVJCqCqhg4HTEoU7SQ=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: QvCsDHmHTCeFtKK23z0HRetpRJI=
+
+Name: res/drawable-hdpi/bg5port3.png
+SHA1-Digest: ig7Y53epQXhdbH5ZYDSFmWmjFeA=
+
+Name: res/drawable-hdpi/genericbulbicon.png
+SHA1-Digest: ab5fltdGqZawQAZgckA95cA4atU=
+
+Name: res/drawable-hdpi/customicon15.png
+SHA1-Digest: i6sX+0pfdfIMZ8fyCMjIRS5UBz8=
+
+Name: res/layout/row_thermosta_schedule_add_new_target.xml
+SHA1-Digest: CkN2w920uH5ygf9OOT7SbfeibwY=
+
+Name: res/layout/light_sensor_row.xml
+SHA1-Digest: eLUVPvA/nYkT9/pHcqXIWKxC9JU=
+
+Name: res/anim/sliderightin.xml
+SHA1-Digest: giBVo2wdQ2lqMsEkAjmqcek1ltE=
+
+Name: res/drawable-hdpi/btnroomheader0.png
+SHA1-Digest: zkt4Yp4rFloda8b9O2f8SwAVvT4=
+
+Name: res/drawable-hdpi/cellroomnorm8.png
+SHA1-Digest: qUKwVV3+2LwbVCZGQKODCCW7UbI=
+
+Name: res/drawable-ldpi/bgiconroom13.png
+SHA1-Digest: o+Hmb4PcXGM2cf9jaOXmwoKV4VY=
+
+Name: res/drawable-ldpi/bgtopbar2.png
+SHA1-Digest: xFYRk4EpFmPiJlAPzGO1YlIldC4=
+
+Name: res/drawable-sw600dp/roomicon5.png
+SHA1-Digest: Jpl/IUoR98gB3LhJQBR1SAprx1A=
+
+Name: res/drawable-mdpi/btnloginpress.png
+SHA1-Digest: AConyKJZfVYH6+xNUgWI0KRAlWU=
+
+Name: res/drawable-hdpi/bgiconroom17.png
+SHA1-Digest: lV20m29sBdck7s7g75GCpEfogQQ=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: YmWnuLFTsxsuwRBtvQiQ6Y6KnsI=
+
+Name: res/drawable-hdpi/bgtopbar.png
+SHA1-Digest: kYJRf5O7YMHCDTndwvEcKGfRk68=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: 0ky7hJW6fNsa6m2tmjhllqHXHfg=
+
+Name: res/drawable-mdpi/wirelesstroubleshoot_step1.png
+SHA1-Digest: fcnJUfUVI695H5kjd2KsjIdvQMM=
+
+Name: res/drawable-ldpi/bgloadbig2.png
+SHA1-Digest: Fk9QA2lh0Cmu/hvOEz+M06HDmok=
+
+Name: res/drawable-ldpi/bgtopbar1.png
+SHA1-Digest: 1i5csAK0JcwiBw+wspuhUpkCHPQ=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: VuHJWuT/6iilvSab3F78/jbS8VQ=
+
+Name: res/drawable/bglinebreak.xml
+SHA1-Digest: hoNhV0dHtWbKNq+uCGBwYaSJOSo=
+
+Name: res/drawable-mdpi/roombar28.png
+SHA1-Digest: BDY1fQS46ErMBZdFjFyVo1Z0ij8=
+
+Name: res/drawable-mdpi/ic_thd.png
+SHA1-Digest: 9J2zUXOl2rnAtdXIagj7u/GigRU=
+
+Name: res/drawable-hdpi/sensor.png
+SHA1-Digest: RQ+IxCk4ranmJt1TPyzdglhlY8w=
+
+Name: res/layout/listview_widget_layout.xml
+SHA1-Digest: 68NXp2jncn+8ABemSywb/s282Qc=
+
+Name: res/drawable-xhdpi/wirelesstroubleshoot_step2.png
+SHA1-Digest: ElLFdi2CHmEIygviKlIUzrVINKY=
+
+Name: res/drawable-hdpi/customicon2.png
+SHA1-Digest: RQ+IxCk4ranmJt1TPyzdglhlY8w=
+
+Name: res/drawable-hdpi/zroom_02.png
+SHA1-Digest: tHz/My3MiNQwtbL7dIG7fYCcA6Q=
+
+Name: res/drawable-hdpi/customicon28.png
+SHA1-Digest: pof4MWhJD4ZTe++b6LrUY/01yo8=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: vo5IER5aYP04fs9WVhNf8ZG8h6g=
+
+Name: res/drawable-hdpi/btnscenehome.png
+SHA1-Digest: bOZhqAKZatXSnemC0Ef4onmQn5E=
+
+Name: res/drawable-hdpi/zroom_06.png
+SHA1-Digest: yhO7N1BMlLCNHlFosZoP3oJas3w=
+
+Name: res/drawable-mdpi/group_unselected.png
+SHA1-Digest: 4wiJzXzdfqqU/GnkMs+CUwkzJmg=
+
+Name: res/drawable-mdpi/bgiconroom29.png
+SHA1-Digest: 2T//SAhgwX2M+plg63SNhVjNrtw=
+
+Name: res/layout/sccreateselectnameiconmain.xml
+SHA1-Digest: z1DNf3KNhCLOBfQiwylUjhxd28s=
+
+Name: res/drawable-mdpi/bgiconroom24.png
+SHA1-Digest: V5HhgScCtahdIE+hDsMeVN9/i+A=
+
+Name: res/drawable-mdpi/toast_frame.9.png
+SHA1-Digest: Ip3eHAmCYdH50Ug4ByNaQQO07Is=
+
+Name: res/drawable-mdpi/settingssearch2.png
+SHA1-Digest: YMX85oCOxGv2TTvGKyC2Cwl1TXk=
+
+Name: res/drawable-mdpi/bgdialroom2.png
+SHA1-Digest: 5uqMJGiUZi/Mx9FgfKqf7VD7mCM=
+
+Name: res/drawable-hdpi/bgcustomalert.png
+SHA1-Digest: 9W+PH1fwepIngtYE5eMUf8s350Y=
+
+Name: res/drawable-mdpi/bgidentifyon.png
+SHA1-Digest: efkHNqWItkkDuNqLpQr5VA0vOxk=
+
+Name: res/drawable-mdpi/roombar30.png
+SHA1-Digest: 1S1AqbwsdXAzeQ607crjjo4nPh0=
+
+Name: res/drawable-ldpi/bgdialroom8.png
+SHA1-Digest: fEoXhHCr21a3GOjUloBtBGzuino=
+
+Name: res/drawable/room5roundedcellshape.xml
+SHA1-Digest: 2rsKBGts7FTBrJngNLFhayJUyA0=
+
+Name: res/drawable-mdpi/roombar6.png
+SHA1-Digest: MlkriaoLdU3XH/oUynJwn5ps83g=
+
+Name: res/drawable-mdpi/bg6port1.png
+SHA1-Digest: 9bUEopDsKWrCC483CKy5iEGZWU8=
+
+Name: res/layout/settingsrow.xml
+SHA1-Digest: 1oLwhd+Q9FujJOW+l7uK5IiPm3c=
+
+Name: res/drawable-ldpi/customicon21.png
+SHA1-Digest: f1hVF2Jw7cGRwFgyx+ZTEOQMtOA=
+
+Name: res/drawable-mdpi/bgloadbig8.png
+SHA1-Digest: sDKd1v3mzEGWHaIp3MpT0M+6qjo=
+
+Name: res/drawable-sw600dp/roomicon8.png
+SHA1-Digest: funbuBLIzFn6L6GhJsYA0A22M0o=
+
+Name: res/drawable-xhdpi/syncgateway.png
+SHA1-Digest: www6ZKUgyZX1bAGRTj2KwNh/a7Y=
+
+Name: res/drawable-mdpi/bgidentifyoff.png
+SHA1-Digest: uOEglKBVAu/xnB3YQujIXpuUrJM=
+
+Name: res/drawable-hdpi/roomicon12.png
+SHA1-Digest: pl1fJFgJ1qApZMA1IxwwJANorIU=
+
+Name: res/drawable-hdpi/bgiconroom4.png
+SHA1-Digest: AJCvcfPpnMIHoDg1JpxhFdSZGbg=
+
+Name: res/drawable-ldpi/bgiconroom29.png
+SHA1-Digest: MbRUfBNLOgtQdwoBEYXm+lb7lMc=
+
+Name: res/drawable-sw720dp/roomicon0.png
+SHA1-Digest: tMAjbeS8u6oBfzsoZ5hBOxcgQW0=
+
+Name: res/drawable-ldpi/bg1port1.png
+SHA1-Digest: QsIHJ48H3wlcngOfK5PGMWnpn0o=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: zXl4gOYVm22pGbkGC4i82wLIMyg=
+
+Name: res/drawable-ldpi/customicon5.png
+SHA1-Digest: CCelZ2pfir7OMgqm44xuUyAZQGI=
+
+Name: res/drawable/room1roundedcellshape.xml
+SHA1-Digest: tjewm3n6BVBFNJS/NTgz3hSUQqk=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: sa6MQEFa8whxq6hug+zvczJa8Ss=
+
+Name: res/drawable-hdpi/ic_color_picker.png
+SHA1-Digest: EOlok9euK/Grkfyc64RRJ1BKIeA=
+
+Name: res/drawable-hdpi/switch_icon.png
+SHA1-Digest: 1/oc//E3YW6dl7vg3IEtidyDe28=
+
+Name: res/drawable-hdpi/roomicon8.png
+SHA1-Digest: funbuBLIzFn6L6GhJsYA0A22M0o=
+
+Name: res/drawable-hdpi/settingssearchbg.png
+SHA1-Digest: xuyOgHSHjJkiWM2539owBvARtHM=
+
+Name: res/drawable-ldpi/customicon30.png
+SHA1-Digest: +AlfZ8JlKGQuElYGYptV4mSZ0Eo=
+
+Name: res/drawable-ldpi/btnloginnorm.png
+SHA1-Digest: 22clLoB0CF+j0jRtjnupwIvPBxM=
+
+Name: res/drawable-ldpi/tv.png
+SHA1-Digest: hy1N/bAkCLk5B698awiTFFYXIL4=
+
+Name: res/drawable-hdpi/zroom_09.png
+SHA1-Digest: dgBu+Vw6Lp/iUiYtuZBzQF7uAGg=
+
+Name: res/drawable-ldpi/thermostat_oobe_not_found.png
+SHA1-Digest: Cey4EAXElio077oo0Zp7ucBN/Qo=
+
+Name: res/drawable-hdpi/roomicon24.png
+SHA1-Digest: U/SCTBXa1gNUqp/bZeqS47fKnpw=
+
+Name: res/drawable-hdpi/customicon13.png
+SHA1-Digest: l836ic2EB6xCMe6N973uuBkrVPk=
+
+Name: res/drawable-ldpi/btnloginpress.png
+SHA1-Digest: NzOv0IQS+PqRIQrZTiaUk7Auwn8=
+
+Name: res/drawable-mdpi/bgloadbig7.png
+SHA1-Digest: kwTGO63jmYrJPss9xmwHEfDaHnk=
+
+Name: res/layout-sw720dp/login.xml
+SHA1-Digest: gJnPLxvJfEkPi4/oWIBNxNC/fgY=
+
+Name: res/drawable/btngreytextselector.xml
+SHA1-Digest: FJd/k/s/RCXB5dBpoJQhzeSGzlw=
+
+Name: res/layout/smartcontrolselectrow.xml
+SHA1-Digest: t8utYkn2GmNk7ec75/vhtMxnrtU=
+
+Name: res/drawable-ldpi/bgshadowbottom.png
+SHA1-Digest: mt4HIGCZ6mVc/tETAqaacr9nUTk=
+
+Name: res/drawable-mdpi/bgiconroom17.png
+SHA1-Digest: tw+GuKfJ0shaUWD49nojpLhpWpE=
+
+Name: res/drawable-hdpi/tabmylightsselected.png
+SHA1-Digest: njWSChKs/wzCHFQgDbSeA2yy/+g=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: IXqmYG4624bef7DnPxFG+Uwx1ak=
+
+Name: res/drawable-ldpi/bgloginmenusettings.png
+SHA1-Digest: 030X2/3wgOXJ0yDTlu2waeE9ZyA=
+
+Name: res/drawable-hdpi/remote.png
+SHA1-Digest: 6/DwZSfK+SY0/AY1oa9OdgvKoWg=
+
+Name: res/drawable-sw720dp/roomicon1.png
+SHA1-Digest: KsOcL7VYdeQW/SvqhB4Id9vGhzk=
+
+Name: res/drawable-mdpi/bgstep2.png
+SHA1-Digest: Dnfwlu7+H+QeyHnAQdfVh8i3B0g=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3+x2t/WZmDnWpRsGihxGb1wjfKk=
+
+Name: res/drawable-ldpi/back_pressed.png
+SHA1-Digest: N1TkvTyBSa7Fn/L+xSball2nRAw=
+
+Name: res/drawable-hdpi/addicon.png
+SHA1-Digest: wQWQsJOetrIZELCsWxrC4yn8TDo=
+
+Name: res/drawable-hdpi/cellroomnorm9.png
+SHA1-Digest: j0o+k/MoMXTWztPDnLZLAN8ylJg=
+
+Name: res/drawable-hdpi/checkcircle.png
+SHA1-Digest: 9OLZiaVma3D6qJqC76AwW9IYo+Y=
+
+Name: res/drawable-mdpi/wiredtroubleshootethernet.png
+SHA1-Digest: ZeZrCgZ9l+1+y1UMbJwRplGdzXw=
+
+Name: res/layout/light_room_row.xml
+SHA1-Digest: 5bhDMbrvqzYAp9OchcFpxQSFJHQ=
+
+Name: res/drawable-ldpi/refresh_icon.png
+SHA1-Digest: r0LMJCPQvKxD5/zFLf/W1O9PesQ=
+
+Name: res/drawable-hdpi/dim.png
+SHA1-Digest: jEbaVyTvi0eluA6s0IPCE3sc0tk=
+
+Name: res/drawable/tabsmartcontrolselector.xml
+SHA1-Digest: gm1qomWcFoRcx0nS4GXL3uRfjoc=
+
+Name: res/layout/security_sync_gateway.xml
+SHA1-Digest: pNgytFz//CuCBMavG150yypRp/k=
+
+Name: res/drawable-xhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: znT4P8AI3xcWsBof3ElTFY2hDrk=
+
+Name: res/drawable-mdpi/bgpoweron.png
+SHA1-Digest: Rd6AirSBjRigdo/UBmTD/l+FmsA=
+
+Name: res/drawable-ldpi/night.png
+SHA1-Digest: SfH2o3pD7QH9zyJhwLe1vEFkG5Y=
+
+Name: res/drawable-hdpi/next_normal.png
+SHA1-Digest: +0owPCUR9VnzvVqI7Q3RLe19HgU=
+
+Name: res/layout/lightsandfixtureschooseroom.xml
+SHA1-Digest: bYCFxIPBVn0zinBRQFcUgXh11Zk=
+
+Name: res/drawable-mdpi/bg6port3.png
+SHA1-Digest: UTGKLn/qwzfFgGAW8jdTqVSvCNs=
+
+Name: res/drawable-mdpi/bgiconroom25.png
+SHA1-Digest: JMWibfsxHQNADvbg1LYBKxHW7LQ=
+
+Name: res/drawable-mdpi/roomicon0.png
+SHA1-Digest: PUdgxR6Lz989J9m04Y0CiJERu7Q=
+
+Name: res/layout/thermostat_schedule_set_target.xml
+SHA1-Digest: zvVk5DVHsvTKZ3ijchj0UGt3XYY=
+
+Name: res/drawable-ldpi/settingssearchbg.png
+SHA1-Digest: 9HbKL38Oey7mD5cSlO5dDA4f3+w=
+
+Name: res/drawable-hdpi/syncgateway.png
+SHA1-Digest: 4DNPx+KORfN5p7Z9wh4yyVkETo4=
+
+Name: res/drawable-ldpi/toast_frame.9.png
+SHA1-Digest: brz6/ryDm0We1ue1h4rbXXeqQ8w=
+
+Name: res/drawable-ldpi/customicon16.png
+SHA1-Digest: VXr2w5EDX45mHERMNSE/9bxbjd8=
+
+Name: res/drawable-ldpi/selectgatewayethernet.png
+SHA1-Digest: N6aOEdpfZaQhK/ZEkHYIQJEmJR4=
+
+Name: res/drawable-xhdpi/bulbtextbg.png
+SHA1-Digest: 38I/+cycQUVkyAvByt/vCLunj9o=
+
+Name: res/drawable-mdpi/bgiconroom10.png
+SHA1-Digest: Gt5M1YxmcsEckjPXNlIhAXzqgro=
+
+Name: res/layout/sccreateselecticonrow.xml
+SHA1-Digest: g3AwnjUPENnEM8BMZk6YrSqJE9M=
+
+Name: res/drawable-ldpi/bg5port5.png
+SHA1-Digest: ewkS/GYZ1+UUH8RwaVtBdZYfIG4=
+
+Name: res/layout/settingsoobe.xml
+SHA1-Digest: evu1dr4jLw4jHXGBKZT5VozoZBQ=
+
+Name: res/layout/bridge_connect.xml
+SHA1-Digest: 3todU1anG0UuqwVt1DWVdkGLQnc=
+
+Name: res/drawable/btnpopupcloseselector.xml
+SHA1-Digest: Kr3gBfh3YxdU40CoLQ73GaTkCNY=
+
+Name: res/layout/scdeviceonoffdimming.xml
+SHA1-Digest: dBFGPSvPl9C6/V1upNccqpGteGg=
+
+Name: res/layout/lightsandfixturescontainer.xml
+SHA1-Digest: Fq3uobWcz0wpqsNCWFhWZxCI6FQ=
+
+Name: res/drawable-hdpi/roomicon9.png
+SHA1-Digest: kCmg20NM9QGx5sq/VeqDkC0uKZg=
+
+Name: res/drawable-hdpi/slider_background.png
+SHA1-Digest: O9dY7+dMD9wmY8l+KO3EXyb5+vw=
+
+Name: res/drawable-hdpi/selectgatewaywireless.png
+SHA1-Digest: vUj3KgdXoSQE//B6Jf3dlGTZOFE=
+
+Name: res/drawable-hdpi/bgiconroom22.png
+SHA1-Digest: a3ckaMj9kSQzOIyo851Us5AVAK8=
+
+Name: res/drawable-ldpi/cellpress.png
+SHA1-Digest: q0Q/K2TTWxIWxjZm89/cY5eD4rk=
+
+Name: res/drawable/btn_scan_selectable_background.xml
+SHA1-Digest: B3jlDbJC5AWpKRa0jcfPIKIKvv8=
+
+Name: res/layout/fixtureaddlights.xml
+SHA1-Digest: mADpTW6uldZ0uQnALRQjed7K9lM=
+
+Name: res/layout/licenses.xml
+SHA1-Digest: B60ehFOQcUJvQBrUUHS2OCURYhE=
+
+Name: res/drawable-hdpi/btndimmernorm.png
+SHA1-Digest: 2raW2fBEuPbps1mz7beqqb7bUmM=
+
+Name: res/drawable/room4roundedcellshape.xml
+SHA1-Digest: B7Hk6j1OmsryFxNNayCsmaEO3vU=
+
+Name: res/drawable-ldpi/bgiconroom23.png
+SHA1-Digest: rLWULzBwcyL3Q+XAZG351hMwZ8Q=
+
+Name: res/drawable-xhdpi/checkcircle.png
+SHA1-Digest: hjZcCK4GYnOf4zrWKFSVXMoVNIU=
+
+Name: res/drawable-hdpi/right_swipe_arrows.png
+SHA1-Digest: fxYjDNJM35AYo0XP0IRVS9OBI2k=
+
+Name: res/drawable-mdpi/bgiconroom23.png
+SHA1-Digest: AtOfCye8lNkRDa9/NKHN+W0fVg4=
+
+Name: res/drawable-ldpi/bgiconroom31.png
+SHA1-Digest: KCBpe+ycbxx71zzdpCqqj/5WqYw=
+
+Name: res/drawable-mdpi/roombar24.png
+SHA1-Digest: HOJw2zkbbMalvuTaZtqYGwwMofE=
+
+Name: res/drawable-mdpi/ic_wifi_low.png
+SHA1-Digest: WOCzxk9aBSLRZseAyzV0su+zG+0=
+
+Name: res/layout/transient_notification.xml
+SHA1-Digest: 06tzJDhGW9S2ApKCWUmtl94bY+g=
+
+Name: res/drawable-ldpi/zroom_02.png
+SHA1-Digest: cNjDTWiXYy35sEu99slpH2zqiK4=
+
+Name: res/drawable-ldpi/ic_set_time.png
+SHA1-Digest: ldwAkigNlrcJ0aZirg5mtvBEso4=
+
+Name: res/drawable-ldpi/customicon28.png
+SHA1-Digest: Driu+OQj7TIf257YGp1kKyD+b+s=
+
+Name: res/drawable-ldpi/customicon14.png
+SHA1-Digest: TeIxIbCFDHHjwftbvfyUfYcAec4=
+
+Name: res/drawable-ldpi/bg5port3.png
+SHA1-Digest: 58DOO6PoS++GB+sq6jsUXPruNUc=
+
+Name: res/drawable-ldpi/bgstep1.png
+SHA1-Digest: 8TXbecGw+0t1rhtG8mocUbmyZ2Q=
+
+Name: res/drawable-xhdpi/cellgreypress.png
+SHA1-Digest: MooGvjMlGd94JxPlCTCR5PK7lCU=
+
+Name: res/drawable-mdpi/roombar29.png
+SHA1-Digest: MSP4Hd2vFvfjjIDm5xKadnz7v3U=
+
+Name: res/drawable-hdpi/bgdialroom8.png
+SHA1-Digest: eruH4WI2q/6sRUlkYPGDRAS9dRo=
+
+Name: res/drawable-ldpi/bgiconroom22.png
+SHA1-Digest: fUe0k5PrXN3N+l+m75F8GzBUDm8=
+
+Name: res/drawable-mdpi/room_swipe_arrow_right_disabled.png
+SHA1-Digest: vLv0rDjS4n3MsBNzKMf+DUu2PK4=
+
+Name: res/drawable/listview_widget_preview.png
+SHA1-Digest: nGIceb9JFEXeo9ZCVf9zjYeN1xA=
+
+Name: res/layout/login_dialog.xml
+SHA1-Digest: vcaBY6oF2wBPOv8YkduMvylcbcs=
+
+Name: res/drawable-mdpi/bg5port2.png
+SHA1-Digest: dEVL6dG2Vr3wc2B4LqsdkUEADQs=
+
+Name: res/drawable-ldpi/bgload6.png
+SHA1-Digest: vabvS/tH6gfhwZ090huLt1fXjhg=
+
+Name: res/drawable-ldpi/bgtopbar9.png
+SHA1-Digest: B/TEuRV5UP6K34MJ8SW0NAUPlCY=
+
+Name: res/drawable-ldpi/room_swipe_arrow_right_active.png
+SHA1-Digest: 6qN/jgYyZqdmSUSgPHIBcDq1hz0=
+
+Name: res/drawable-ldpi/slider_bar.png
+SHA1-Digest: O2PPrJuTdjMjx2NDH0MWbaU9rEg=
+
+Name: res/drawable-ldpi/tabsettingsunselected.png
+SHA1-Digest: ka0NcBQ6t9DHq4zyYA0uoZbjw8A=
+
+Name: res/drawable-hdpi/ic_delete_sc.png
+SHA1-Digest: tQ+z4pMEi5lU+ZU7mRtScK04+yk=
+
+Name: res/drawable-mdpi/bgheaderbar.png
+SHA1-Digest: FwqDXRZdW6pC7dAi54z54QZhkpw=
+
+Name: res/drawable-hdpi/bgtopbar9.png
+SHA1-Digest: +eL8MolzNCZlsWf/ZvEi0YRLNws=
+
+Name: res/drawable-hdpi/bgiconroom28.png
+SHA1-Digest: ViQYBkJCrnXu9/Zf0SiAsQd7kM8=
+
+Name: res/drawable-mdpi/bgtopbar2.png
+SHA1-Digest: I6tC3E7IrkDm41XaLLUg/xBrYgE=
+
+Name: res/xml-v11/myhome_widget_info.xml
+SHA1-Digest: jgQAAN5ekaF95clzB4+QyUL+0dQ=
+
+Name: res/drawable-ldpi/customicon31.png
+SHA1-Digest: hpFPiU+RDSXTqJPCfIs4o+wvYag=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: MQsj73rqoxGdFvNYEPkKJZPqXBU=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: KUWcrP9v7FORu4ojRjzVSn0JZio=
+
+Name: res/drawable-mdpi/bulbbg.png
+SHA1-Digest: EvF2+oPfzPLXWgXP6nio/Zt9Syw=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.
+ png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: res/layout/system_information.xml
+SHA1-Digest: zPxRItBQog/8RPW+zwkGWLW2E5Y=
+
+Name: res/layout/fixtureeditrow3.xml
+SHA1-Digest: G/wh9Jqq5cV5pTrnTwmXvUh9qEg=
+
+Name: res/drawable-mdpi/bgloadbig3.png
+SHA1-Digest: JDPoUZ/k54VxXIriT6WdSSlusLY=
+
+Name: res/drawable-mdpi/next_normal.png
+SHA1-Digest: TMfwoJLR0YJvNud2O4FPyt/YlyM=
+
+Name: res/drawable/tab_bg_selector.xml
+SHA1-Digest: UH3wHJh4W3eDFMqowfTPmtygFUY=
+
+Name: res/drawable-mdpi/ic_preview.png
+SHA1-Digest: WUAjRzkMLoYmMrUxKPjIm1Rz3Kk=
+
+Name: res/drawable/roundedbuttonnormal_sc_shape.xml
+SHA1-Digest: 8mLoX/gFbNnSnrUJy8BfLUBsfF0=
+
+Name: res/drawable-ldpi/settingssearch2.png
+SHA1-Digest: T4QqReY+/nuIUL/IZb9Y7pjaw+A=
+
+Name: res/drawable-mdpi/tabsmartcontrolunselected.png
+SHA1-Digest: 6bttcyUmVOl4PsdbFL1Ft+NxdZA=
+
+Name: res/drawable-mdpi/bridge_light.png
+SHA1-Digest: oGWUc0keNMVou2CHVUc2/TY8Tdc=
+
+Name: res/drawable-ldpi/bgpoweron.png
+SHA1-Digest: PuWwO9l581X9u+OZczepiyArqAU=
+
+Name: res/drawable-ldpi/bgiconroom11.png
+SHA1-Digest: UBj7D+ZbPLRHBTPrfsCEVR/qi6Y=
+
+Name: res/drawable-xhdpi/bridge_light.png
+SHA1-Digest: 4QcyIUtBbPzp/YZ6SpOzelrbNF0=
+
+Name: res/drawable-hdpi/ic_wifi_medium.png
+SHA1-Digest: CXH3m/Lfe/cxr6k//Q6Sujbq7Qk=
+
+Name: res/layout/settingsconfignewlights.xml
+SHA1-Digest: oMSel73p76ubole0l4JTLIxoJlY=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: uRAyDpH07H9tazGPj+pquxEo+4U=
+
+Name: res/drawable-ldpi/btnpopupclosenorm.png
+SHA1-Digest: tVKQtMOspkyyN8479M7TDUWUBOw=
+
+Name: res/drawable-hdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: NHqkBfIL0tvXQGsGHO91mUCAPyI=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 1nB29gilkMG21U2c1UzWz5vtjpc=
+
+Name: res/drawable-mdpi/remote_group_icon.png
+SHA1-Digest: iEqr76+hueBd0MYcBDcB2ES9mSw=
+
+Name: res/drawable-mdpi/vert_dimmer_bg.png
+SHA1-Digest: N9Iy0hnDFijm63WMbOn3ZwH7vZs=
+
+Name: res/drawable-hdpi/bgshadowbottom.png
+SHA1-Digest: ro6L5vwGWIpvmuSQJDYw+VNWrGM=
+
+Name: res/drawable-hdpi/tree.png
+SHA1-Digest: ncg4xD93MflFFtjDz4JxK5OeGlI=
+
+Name: res/drawable-sw720dp/ic_sunset.png
+SHA1-Digest: s48qq4vMCsTLwztcL47lD/I73MM=
+
+Name: res/drawable/selectable_background.xml
+SHA1-Digest: nKOwxBRLOSwlJWkv0ekUGtLHuT8=
+
+Name: res/drawable-hdpi/roomicon25.png
+SHA1-Digest: Q4vXdEmvGewNj/VSFdu+H3wRjIE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: vGictS/UYFmX8tbz7DG/BKWlA1A=
+
+Name: res/drawable/btnloginselector.xml
+SHA1-Digest: F39hMQ2zNAGcDswH4VZubPOxEcM=
+
+Name: res/drawable-xhdpi/checkblank.png
+SHA1-Digest: lyYrwG0GENgyUB6GvllHy9Ch+38=
+
+Name: res/drawable-mdpi/wirelesstroubleshoot_step3.png
+SHA1-Digest: JQYbe6zGBW8tWyOYE9KWu01PcMY=
+
+Name: res/drawable-ldpi/checkblank.png
+SHA1-Digest: ac4AF6xKnPreuEwF+u0ZiGMBnCY=
+
+Name: res/layout/settingsmanageroomsrow3.xml
+SHA1-Digest: IWfSboF6wG2via7+eOGGSMQLa+Q=
+
+Name: res/drawable-hdpi/logo.png
+SHA1-Digest: GxqIuA8ZVAAL/SuV2Lt4ximx1h8=
+
+Name: res/drawable-xhdpi/back_pressed.png
+SHA1-Digest: /J4lbi0MteUWMR+YraShDu+UgkA=
+
+Name: res/drawable-hdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: mKmFlpzPqO2eN1UQWWTrY/HvgmA=
+
+Name: res/drawable-sw600dp/roomicon7.png
+SHA1-Digest: Z6QVndEqDLFJllYN5b7ZUAppOxk=
+
+Name: res/drawable-ldpi/group_selected.png
+SHA1-Digest: /XE9HOoYw0z2+jFioGR/eHaE3fU=
+
+Name: res/drawable-ldpi/bg6port2.png
+SHA1-Digest: v9dK6QOawXTwiVhF+Z2VyTnP8vA=
+
+Name: res/drawable-mdpi/bgtopbar9.png
+SHA1-Digest: EAlW9dNebbj9gSfBjiZ+Ma4gyZ4=
+
+Name: res/drawable-hdpi/blankicon.png
+SHA1-Digest: a3kcNDJa1uL1f5QeegorVZQQnG4=
+
+Name: res/drawable-ldpi/bulbdimmerslider.png
+SHA1-Digest: 3j17TRyxeSF9lD6jYXwO3Xt/gqk=
+
+Name: res/drawable-mdpi/bg5port4.png
+SHA1-Digest: ShQrgb3FXsypkLUuLvw0hIbSino=
+
+Name: res/drawable-hdpi/bgpowerselect.png
+SHA1-Digest: BWyhwaXZRPPy2K2r9ZCKSUnQ2gI=
+
+Name: res/drawable-hdpi/ic_thd.png
+SHA1-Digest: zSolbrHKLKTrRAuCAkUUgpgLt1s=
+
+Name: res/drawable-ldpi/bgstep2under.png
+SHA1-Digest: v5QKbhIDbjnPCTXaOJpI3hrnlOA=
+
+Name: org/teleal/common/swingfwk/logging/img/viewtext.png
+SHA1-Digest: H4oCc/BKMNhl2Ur2Wp7b9xxZYiY=
+
+Name: res/layout/setup_select_action.xml
+SHA1-Digest: WWY1sjEkirAdDaC7Fd+UGCe+j1Q=
+
+Name: res/drawable/btnselector.xml
+SHA1-Digest: 0rjqglVmxT3FV2hDkRZCgk2llGo=
+
+Name: res/layout/help.xml
+SHA1-Digest: nVULFjDvr8r704BumGR/MzkLKtU=
+
+Name: res/drawable-mdpi/connectlightinglridgelist.png
+SHA1-Digest: 6MLRnq1nrv6IFDx9lxkN41N5RUM=
+
+Name: res/drawable-hdpi/roomicon7.png
+SHA1-Digest: Z6QVndEqDLFJllYN5b7ZUAppOxk=
+
+Name: res/drawable-hdpi/roomicon27.png
+SHA1-Digest: MayW5TUAcqHjwmAizYTuRxEwyWo=
+
+Name: res/drawable-ldpi/customicon20.png
+SHA1-Digest: W8hvZiXKXp46toaCxAkNL9/gHt0=
+
+Name: res/drawable-ldpi/tabmyhomeunselected.png
+SHA1-Digest: Z7KNzDWf7yTkmG+FY551FW8NTCE=
+
+Name: res/drawable-ldpi/bgiconroom2.png
+SHA1-Digest: QTbsfJUnvCX3mHBmAuEiS+FkNDo=
+
+Name: res/drawable-hdpi/bg6port1.png
+SHA1-Digest: rRcE1DYMyBC/CIQmteo8QaMhTp0=
+
+Name: res/layout/settingsmanageroomsrow2.xml
+SHA1-Digest: xlY2vvBFrpUtoWssQUmHL48aLXw=
+
+Name: res/anim/sliderightout.xml
+SHA1-Digest: g8Sfbud//axEbRBSqbA/y8ok2/I=
+
+Name: res/layout/sccreatedevice.xml
+SHA1-Digest: bv6KKVR9ZpU8bHerxE9IPwEUsfM=
+
+Name: res/drawable-mdpi/btnclosenorm.png
+SHA1-Digest: 8kPC6RIm1WMQPINprdWihOV2Yj0=
+
+Name: res/drawable-mdpi/bgcustomalert.png
+SHA1-Digest: tiVadbKBnmKKHnTA8rwZqZwFZRk=
+
+Name: res/drawable-ldpi/bgiconroom8.png
+SHA1-Digest: OfurlMQWSwnDfJbJNBW7DJLlGX0=
+
+Name: res/drawable-ldpi/btnnorm.png
+SHA1-Digest: PU+eqH0XGJg/+v/Ac1uN85rabfM=
+
+Name: res/drawable-mdpi/roombar3.png
+SHA1-Digest: i7AvofaiNJnCpugyGOT9txzz9Hw=
+
+Name: res/drawable-hdpi/tabmylights.png
+SHA1-Digest: RkDRHk9pp4NPTMT9RL+4i2ZkacE=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: he0SlIYzLlZChBg6d38hheLzBns=
+
+Name: res/drawable-sw600dp/roomicon1.png
+SHA1-Digest: KsOcL7VYdeQW/SvqhB4Id9vGhzk=
+
+Name: res/drawable-xhdpi/ic_wifi_full.png
+SHA1-Digest: TLI7huqldOAnDE7DEJhzOjodjE8=
+
+Name: res/drawable-mdpi/ic_plusone_small_off_client.png
+SHA1-Digest: lOwgiwPxI8R2+0EZBBOzp3VD+bg=
+
+Name: res/drawable-hdpi/bg_bigpause.png
+SHA1-Digest: bTtE/Oelo8WTEp9nquor4RZ3NAc=
+
+Name: res/layout/bridge_setup_network.xml
+SHA1-Digest: G8hz5o+CSHOAhEJkLz21YLoH1bM=
+
+Name: res/layout/thermostat_schedule_new_name.xml
+SHA1-Digest: 6aWIbK9PVDpOL6X8yyQqocFKSgI=
+
+Name: res/drawable/bgnavbar.xml
+SHA1-Digest: tTsd5UgUn6gRQbju622dP3FUzHc=
+
+Name: res/drawable-ldpi/bgdialroom4.png
+SHA1-Digest: j1BBYOnNjDNMxtfWpBpzJfLWwI0=
+
+Name: res/drawable-mdpi/btnclosepress.png
+SHA1-Digest: Gguh7DVfqrGZqUM4nl7NnBYrkcA=
+
+Name: res/drawable-xhdpi/bgsetupthermostat.png
+SHA1-Digest: Rc0AXJBhuoe7oJP343E3C8n+13A=
+
+Name: res/drawable-hdpi/celltopwhitenorm.png
+SHA1-Digest: 7XkXS/2P6JWjwJopt+qqm4t8Y+A=
+
+Name: res/drawable-hdpi/sliderthumb.png
+SHA1-Digest: 0MueBBpAZAa9X5lPD95H/m8q9OU=
+
+Name: res/drawable-hdpi/clock.png
+SHA1-Digest: 8ShUBY3aTvcq2cTpJT2hCbI6lfw=
+
+Name: res/drawable-ldpi/btngreypress.png
+SHA1-Digest: cBhMqzADcYpOMHcJDkBUFSDOXCA=
+
+Name: res/drawable-hdpi/cellroomnorm2.png
+SHA1-Digest: ToQA7PGLTSYo1RmtLHXs5l+MRBQ=
+
+Name: res/drawable-hdpi/zroom_01.png
+SHA1-Digest: HAWCngSAIGNrZ+kE1BU5Oy15DS0=
+
+Name: res/drawable-mdpi/btndimmerpress.png
+SHA1-Digest: MrO340xf/oLo57Kcl7huawboWLE=
+
+Name: res/drawable-mdpi/bgbuttonpaneldefault.png
+SHA1-Digest: ZkJDkBqj7IH2bc6iY15ncRkhwvA=
+
+Name: res/drawable-hdpi/ic_right_arrow.png
+SHA1-Digest: /oHIrW3JDE0ocSAuin0fChKJe3o=
+
+Name: res/drawable-hdpi/btn_my_lights_refresh.png
+SHA1-Digest: 6on12aaepc46i2Us7zYK9BUCmS8=
+
+Name: res/drawable-ldpi/bgiconroom19.png
+SHA1-Digest: a3m6ioXZtO8r4g4rRpHjodSTUpI=
+
+Name: res/color/btndeviceselector.xml
+SHA1-Digest: LUTlU4sa0Hz1F8tDELmrN+7+oYI=
+
+Name: res/drawable-mdpi/thumbforverticalslider.png
+SHA1-Digest: TOroQsM5j1mtMgBbZQr8Bs33Z34=
+
+Name: res/raw/license.html
+SHA1-Digest: nfCJhdiuBXcSk7VZXxL7GuLyE0w=
+
+Name: res/drawable-ldpi/slider_background.png
+SHA1-Digest: CkLzCYmeY+dMcxo+iK3kfhHL/R0=
+
+Name: res/drawable-mdpi/ic_sunrise.png
+SHA1-Digest: 605tmkTha+kmw/hpsLgUsQqv3Yk=
+
+Name: res/drawable-mdpi/roomicon8.png
+SHA1-Digest: Ok8H38Yu8dp/dA2fFWBW3sLfQnE=
+
+Name: res/drawable-mdpi/bgiconroom5.png
+SHA1-Digest: UgrxTxKYghveX2mZ8DHlX92uDPw=
+
+Name: res/drawable-hdpi/bgloadbig8.png
+SHA1-Digest: d693VZZc0GYYDRR2Ww4klKBVsDE=
+
+Name: res/drawable-ldpi/bg6port5.png
+SHA1-Digest: Sune0uJaa9pRUCpSFS0tnd9QY0Y=
+
+Name: res/drawable-hdpi/bgiconroom16.png
+SHA1-Digest: Om6h9u9NKUtJMGNv794WQAzpihY=
+
+Name: res/drawable-ldpi/dimmer_background.png
+SHA1-Digest: TGBKJrDKpJar+LW0mlt1EkKwREg=
+
+Name: res/drawable-mdpi/bgiconroom3.png
+SHA1-Digest: Ot28R2HLu7VL32PbNYcX2FaWFmg=
+
+Name: res/drawable-sw720dp/ic_sunrise.png
+SHA1-Digest: F8N4x/lfxYuuXsrqi6RL3Pk4kEY=
+
+Name: res/layout/mylights.xml
+SHA1-Digest: gXpKmU/w8djhUTmhEiqAhq+jpvs=
+
+Name: res/drawable-xhdpi/ic_thddark.png
+SHA1-Digest: U5T9/MoDEPvay6dSilse024Yt30=
+
+Name: res/drawable-sw720dp/roomicon9.png
+SHA1-Digest: kCmg20NM9QGx5sq/VeqDkC0uKZg=
+
+Name: res/drawable-ldpi/checkcircle.png
+SHA1-Digest: auOG9NO8q7TGoxTlAm2iLdWtG8c=
+
+Name: res/drawable-xhdpi/refresh_icon.png
+SHA1-Digest: 9cIsK+yRLLBAy6OAeRCyVl6NdP4=
+
+Name: res/drawable-ldpi/syncgateway.png
+SHA1-Digest: PhfKrNaMmuFMiDb/1Xq5oLQtjGQ=
+
+Name: res/layout/settingssearchnewlights.xml
+SHA1-Digest: 3P8QXrau33pwdnT96lyO+kwRXP4=
+
+Name: res/layout/sccreateselectnameicon.xml
+SHA1-Digest: kwMRrajyGzaZp/KDZztJ2KuTdhY=
+
+Name: res/drawable-hdpi/bgiconroom27.png
+SHA1-Digest: s8Xv4bzuKpj0cb9A6KzpUpIKCrM=
+
+Name: res/drawable-xhdpi/save_scene.png
+SHA1-Digest: 0eYMc0SZtFfIqH2Kbi2aSesl+Qs=
+
+Name: res/drawable-ldpi/bgiconroom26.png
+SHA1-Digest: 3DGjMSvSmlZLbq3lh/ZWiojASpY=
+
+Name: res/drawable-hdpi/btngreynorm.png
+SHA1-Digest: +m/4gw5f4qUUCFtAcRu481zG9u8=
+
+Name: res/drawable-hdpi/customicon6.png
+SHA1-Digest: Zau8wS4heH844hQDeRq68d8vAJA=
+
+Name: res/drawable-hdpi/bgtopbar6.png
+SHA1-Digest: CR9yL/za6uZQE7ITWongobuQTfk=
+
+Name: res/layout/imagepicker.xml
+SHA1-Digest: FpBpDhmal66EXGlA/BlaxtYbx3M=
+
+Name: res/drawable-ldpi/bgiconroom20.png
+SHA1-Digest: U8oqG179gPGj2LElaUT2bOSDSAE=
+
+Name: res/drawable-mdpi/bgdialroom1.png
+SHA1-Digest: OgJ/bXBTqhLdFpEXAMXmY3oGXMA=
+
+Name: res/layout/sccreateselecttype.xml
+SHA1-Digest: WhNETAp1AtlcvjKPnmWK7WyCbZg=
+
+Name: res/drawable-hdpi/roomicon3.png
+SHA1-Digest: mTdtR66oaM+uTIA0QroarA5t5V4=
+
+Name: res/drawable-hdpi/customicon16.png
+SHA1-Digest: jZZy7uRYlYigbHDYVw+V/IbE19o=
+
+Name: res/drawable-xhdpi/ic_sunrise.png
+SHA1-Digest: hNrQmETne6TB+GhGtPcBEncMdR0=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: 7vLApczB6mEex3xCchwoPVizP8w=
+
+Name: res/drawable-ldpi/zroom_09.png
+SHA1-Digest: PZ40uo5gES4hrV+UIQPv0WdcM6I=
+
+Name: res/drawable-hdpi/tabmylightsunselected.png
+SHA1-Digest: N2UF7HtsmmahrzIynAuHqaGeAbM=
+
+Name: res/drawable-xxhdpi/securenetworksettings.png
+SHA1-Digest: iZPeCVVNgO0uTsFD0cOdPBwZHcY=
+
+Name: res/drawable-hdpi/roomicon19.png
+SHA1-Digest: rxjjyiaOP74zBlA3oWR6yQ+Yvbg=
+
+Name: res/drawable-mdpi/roombar21.png
+SHA1-Digest: A+3bVLhhvcpxF7reyunwloyr2MY=
+
+Name: res/drawable-ldpi/bgload2.png
+SHA1-Digest: 3w4t8rrHweevGaFtsqDw4haPdgo=
+
+Name: res/drawable-mdpi/bgloginmenusettings.png
+SHA1-Digest: Om+H77xug+Wwk4wO0st7hViHtk4=
+
+Name: res/drawable-ldpi/bgload5.png
+SHA1-Digest: IFTMLSVqURRuuB5RmIH3NKPUp+c=
+
+Name: res/drawable-ldpi/bgloadbig4.png
+SHA1-Digest: j3eEG7dTZwgVGVG1nPKegrsiP88=
+
+Name: res/layout/lightsandfixtureschooseroomrow.xml
+SHA1-Digest: oWD5rcGWdinNdcye54pQEXoPql4=
+
+Name: res/drawable-xhdpi/guide_top.png
+SHA1-Digest: DcPujMWF3PVWdj1nWC9rPRnzFlY=
+
+Name: res/drawable-hdpi/bgloadbig2.png
+SHA1-Digest: v73M1Ht5ASDD7NCKop/Rfck3P2E=
+
+Name: res/drawable-mdpi/roombar8.png
+SHA1-Digest: kk9aOA6zvIx89pXj1FXfnpRLmL0=
+
+Name: res/layout/sccreatedeviceswitch.xml
+SHA1-Digest: PYWIQK0WZDkV1VuJ2Jgv9TJnMGc=
+
+Name: res/drawable-ldpi/eat.png
+SHA1-Digest: B0ZkagHzIbED6679ndjYGfk5yBs=
+
+Name: res/layout/settingsoobenetworkrecovery.xml
+SHA1-Digest: ksgH83WfK00H295GSOzM/HkeTK0=
+
+Name: res/drawable-hdpi/vacation.png
+SHA1-Digest: l836ic2EB6xCMe6N973uuBkrVPk=
+
+Name: res/drawable-mdpi/bgload7.png
+SHA1-Digest: ko86BXVKgOONQawf5UcrGtWvUfo=
+
+Name: res/layout/crop_selector.xml
+SHA1-Digest: y3uBmhp9aoiC0ImiRKo86emNJcg=
+
+Name: res/drawable-ldpi/bgdialroom7.png
+SHA1-Digest: M6ci/uCWvqI6ME5KW7vsnLplxJs=
+
+Name: res/drawable-mdpi/group_selected.png
+SHA1-Digest: /e7qNkOjNLKhm02lDhjnF0HsHPA=
+
+Name: res/drawable-hdpi/bgloadbig4.png
+SHA1-Digest: ecTiB0DmW8feqEbxUbPZU3PynSI=
+
+Name: res/drawable-hdpi/bgiconroom10.png
+SHA1-Digest: qYcenzhafg0YjIDrRvwKVckb2ts=
+
+Name: res/layout/bridge_setup.xml
+SHA1-Digest: 036kR2xhKjWaLvtDq/7AvOUMUXY=
+
+Name: res/drawable-hdpi/connectlightinglridgelist.png
+SHA1-Digest: 6xEsbAMq23e7+ggqrSpH8HWhVK4=
+
+Name: res/layout/scsummaryedit.xml
+SHA1-Digest: WOpqOkpoDPsnxAhcOYxSURVZs2c=
+
+Name: res/drawable-mdpi/smartcontrolmanual.png
+SHA1-Digest: Mzx8krV4C6n9R6ixWr4z9OtRk8s=
+
+Name: res/drawable-hdpi/group_unselected.png
+SHA1-Digest: oci527o5kpyYgS5mMwQbqj2X+1Q=
+
+Name: res/drawable-ldpi/zroom_03.png
+SHA1-Digest: O3xCz4t+rXRDZOAGHK71h/9gB1Y=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: VBdIt82ioiZO0Qmr7/J+8sPnop8=
+
+Name: res/drawable-ldpi/bg6port3.png
+SHA1-Digest: WSu0rKHNQPKVHfeuQbDdBcc6lzA=
+
+Name: res/drawable-ldpi/smartcontrolcustom.png
+SHA1-Digest: yh41nrquxR7W2zjYnv0oc+Ya1R4=
+
+Name: res/drawable/tabmylightsselector.xml
+SHA1-Digest: IDTR/k8xqlMaIVkMpHi8pcUEvbQ=
+
+Name: res/layout/light_widget_item.xml
+SHA1-Digest: CIBnBSXaxBCELkK5T87/vrrCr+4=
+
+Name: res/drawable-mdpi/bgloadbig2.png
+SHA1-Digest: eHom58+85F7LAoXaUe1kN3iG8sg=
+
+Name: res/drawable-mdpi/btnnorm.png
+SHA1-Digest: PU+eqH0XGJg/+v/Ac1uN85rabfM=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: res/drawable-hdpi/customicon17.png
+SHA1-Digest: 9wPe352TnCJQ9tS0WEzQNTDAQsg=
+
+Name: res/drawable-hdpi/eat.png
+SHA1-Digest: 8BTUePVm+WNQ3odCyc+i4vQLYuc=
+
+Name: res/drawable-hdpi/star.png
+SHA1-Digest: hzLlPVUbEZZecI3vc34bhazEqZM=
+
+Name: res/drawable-ldpi/bgloadbig5.png
+SHA1-Digest: 3wqtE9e57vv2sT6QHpBXlzi0xfE=
+
+Name: res/drawable-mdpi/ic_sunset.png
+SHA1-Digest: ldbbgpBRLWLAJwzs4DI4/szy6kc=
+
+Name: res/drawable-hdpi/bg5port5.png
+SHA1-Digest: m36tgkhk7/ipVJMBKsMqytsKzug=
+
+Name: res/drawable-xhdpi/help_button.png
+SHA1-Digest: o/s0OCVCNNEGiKRz+LR907s8b4M=
+
+Name: res/drawable-mdpi/bulbofflinesymbol.png
+SHA1-Digest: qWZvpAiF4lajlk9L3prYlLbDAHE=
+
+Name: res/drawable-hdpi/bgstep1complete.png
+SHA1-Digest: RIsozK4NAPxYQG/FO/wotM3tbPc=
+
+Name: res/drawable-ldpi/wiredtroubleshootethernet.png
+SHA1-Digest: rO4D84K0t/44pTN35gQF5dq4j1s=
+
+Name: res/drawable-mdpi/next_pressed.png
+SHA1-Digest: QvtOsKe0fS3ivyIE2ccEXMW7fl4=
+
+Name: res/drawable-mdpi/bgiconroom15.png
+SHA1-Digest: TBYy0Xw9vJHBtFAjVN7WNYsmhPI=
+
+Name: res/drawable-hdpi/customicon21.png
+SHA1-Digest: jEbaVyTvi0eluA6s0IPCE3sc0tk=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.
+ 9.png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: res/drawable-ldpi/fan_heat.png
+SHA1-Digest: o52gFl/OrQ4D9KFqrDbs3z0LWPQ=
+
+Name: res/drawable-hdpi/roomicon22.png
+SHA1-Digest: 8lHr8qdsHb7m9lDPKPf5+m/Sg8g=
+
+Name: res/drawable-hdpi/bg5port1.png
+SHA1-Digest: TOqczTubapY7qqLdkKRo1w/32nE=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: res/drawable-mdpi/checkcircle.png
+SHA1-Digest: oYcs/2RJCwIkz1OJMW15yIOFMqQ=
+
+Name: res/drawable-mdpi/bgiconroom7.png
+SHA1-Digest: RgVLL9yynvsXE2ByB30LHXHniLk=
+
+Name: org/teleal/common/swingfwk/logging/img/info.png
+SHA1-Digest: ud4+ylDjb4n4B3uKUeujs4Bi81E=
+
+Name: res/drawable-hdpi/bgiconroom23.png
+SHA1-Digest: zWqXiIyo+Orx6jJQhg0uaD9J0hk=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: 3ykmXY19TE3+iAkaSqbgL+5rxfQ=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.
+ png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: res/layout/dark_widget_item.xml
+SHA1-Digest: OfosolOdpyUpv8Og+yXkcBmXdAc=
+
+Name: res/drawable-hdpi/btnblacknorm.png
+SHA1-Digest: +m/4gw5f4qUUCFtAcRu481zG9u8=
+
+Name: res/drawable-hdpi/bgload5.png
+SHA1-Digest: 8FOSPav9tiOjAhaN0v2qjSN2efM=
+
+Name: res/layout/main.xml
+SHA1-Digest: LYSvGRS43RRBkFL2LOE3RqjrxoY=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: IkOjI29UDeEmriO620NWQRYQBQM=
+
+Name: res/drawable/roundedtopcellshape.xml
+SHA1-Digest: UyafpAisCdNnjpWGSmWAhGD+GwQ=
+
+Name: res/drawable-mdpi/roombar12.png
+SHA1-Digest: okF6vMO1b+zLaICa6RXOdp1IvHo=
+
+Name: res/drawable-mdpi/bgiconroom14.png
+SHA1-Digest: 7vlZFJfcbSxnTk066013uuybw8w=
+
+Name: res/drawable-hdpi/bgdialroom3.png
+SHA1-Digest: GDuNQgoIDQBIhaAJHVnNZ1hJQ/Q=
+
+Name: res/drawable-ldpi/bgdialroom9.png
+SHA1-Digest: XH2aBXiBw/40bqwRr3uxps4uvOE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: res/drawable-hdpi/bgdialroom5.png
+SHA1-Digest: hCcaCaJw29mZdPx6X8anjmN8F9Q=
+
+Name: res/drawable-hdpi/cellroomnorm3.png
+SHA1-Digest: PFwyaaMEaBAQRCjBYBrKKzenKOA=
+
+Name: res/drawable-ldpi/customicon23.png
+SHA1-Digest: 6g45StDdXxQpL1lCy3nfcCE1JeM=
+
+Name: res/drawable-hdpi/bgsetupwizard.png
+SHA1-Digest: 1CSGkWe1W/VqydVOvH4fOL34An8=
+
+Name: res/drawable-hdpi/roomicon0.png
+SHA1-Digest: tMAjbeS8u6oBfzsoZ5hBOxcgQW0=
+
+Name: res/drawable-hdpi/cellroomnorm6.png
+SHA1-Digest: 36nEBqc0JaB0nv/fbohQ+6gA+KI=
+
+Name: res/drawable-xhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: pxNZ8SkEfPjyfAiSKNlW4SZk60Q=
+
+Name: res/layout/tab1.xml
+SHA1-Digest: qEqZVn2CExUFHxSMLfiXdXLor+Q=
+
+Name: res/drawable-hdpi/bgloadbig7.png
+SHA1-Digest: Q/WpKa1noTytp3JWhuKrHOnEJzA=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: re+zLFhPUMSpBod/+8AnbiOF95E=
+
+Name: res/drawable-ldpi/bgloadbig1.png
+SHA1-Digest: I6UzsINK3MYZBTHnl6sOFVFpHQ8=
+
+Name: res/drawable-hdpi/bg1port1.png
+SHA1-Digest: fP+dMATlRVLX8BBIr9w2DVzE650=
+
+Name: res/drawable-hdpi/lamp.png
+SHA1-Digest: di8vZYJ4zfy5WxvuATyPIsEXdMQ=
+
+Name: res/layout/settingsaddmorelights.xml
+SHA1-Digest: OSfhUT6Kzhp9+mbZGI6ASHuhvAs=
+
+Name: res/drawable-hdpi/btnnorm.png
+SHA1-Digest: qrP9mrM5fdfpFB39XR6KdtHCH04=
+
+Name: res/drawable-ldpi/bgiconroom28.png
+SHA1-Digest: UwzKFX4Z9UmkQRnTbum2uTx0W/g=
+
+Name: res/drawable-hdpi/buttoncheckboxunchecked.png
+SHA1-Digest: 2/KidTBdcyNUpDIsVIKDIX5zJyE=
+
+Name: res/drawable-xhdpi/waitindicatoranim.png
+SHA1-Digest: 5Rl1zJ7JY7LVLxywWltfm3srKP0=
+
+Name: res/layout/sccreateroomdevice.xml
+SHA1-Digest: yogb/TtKAv7T44fwLZsN1qK5Adk=
+
+Name: res/drawable-ldpi/zroom_07.png
+SHA1-Digest: AoX+3uPxQOlIChk1zwfDk8/wKRc=
+
+Name: res/drawable-ldpi/bgiconroom0.png
+SHA1-Digest: G+ps/jcxiD2EsXOiTAmHZ02zOYo=
+
+Name: res/layout/new_bulb_found.xml
+SHA1-Digest: gWJt+P5Z94yg2eOM0ZUqPgGE5ho=
+
+Name: res/drawable-hdpi/music.png
+SHA1-Digest: q5GbcpAQ/iggZ5IvRa8liAsYjv8=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: res/drawable-hdpi/toast_frame.9.png
+SHA1-Digest: F3+R4BDZolPuL3tHDo5usKVYzY8=
+
+Name: res/layout/editname.xml
+SHA1-Digest: hXqCGwpeXebA/xddpISw6A89qdA=
+
+Name: res/drawable-ldpi/bgiconroom18.png
+SHA1-Digest: N3iEXrWX6LJCNofjWyILpz3Z7I4=
+
+Name: res/drawable-mdpi/roombar19.png
+SHA1-Digest: y34jXqSfTJGVDHU6GSK5ut+/vWg=
+
+Name: res/drawable-hdpi/bgidentifyon.png
+SHA1-Digest: HYzzRbbdbDZqaIIfy/7sx4JiaNk=
+
+Name: res/drawable-ldpi/bg5port1.png
+SHA1-Digest: rtsNclDR5mdvQJV+g4yAGBCqqRM=
+
+Name: res/layout/dimmerpopup.xml
+SHA1-Digest: xDlWYizUpLl/6BBxWL+VPw8Oa/w=
+
+Name: res/drawable-mdpi/remote.png
+SHA1-Digest: uGxc03pjzPzsz1Gx7Wg6yb3CpnY=
+
+Name: res/drawable-hdpi/bgloginmenusettings.png
+SHA1-Digest: PLiSjUCy6nZlmGgWjko/uC+Ti+0=
+
+Name: res/drawable-mdpi/tabmylightsselected.png
+SHA1-Digest: Df44jpHtYUbbGDrOaWE+KJypiPE=
+
+Name: res/drawable/room0roundedcellshape.xml
+SHA1-Digest: 0P17pKU54tGTG4zNSD7z7G8POfQ=
+
+Name: res/layout/settingsmanageroomsrow5.xml
+SHA1-Digest: 3vdG2DBEBjzHK3UIXoa9brYPe0A=
+
+Name: res/drawable-xhdpi/waitindicatorbg.png
+SHA1-Digest: KCUP3w5MnnJMVqJETLCRccidOXQ=
+
+Name: res/drawable-xhdpi/back_normal.png
+SHA1-Digest: zTct7MJgVhy8C4exJnkOppUA64M=
+
+Name: res/layout/smartcontrolpowerselect.xml
+SHA1-Digest: XAxHqBU9ZaZkvwEG7/YcrplWsbA=
+
+Name: res/drawable-hdpi/remote_group_icon.png
+SHA1-Digest: uyuVcUaCccpqula/WsQaYIbI4eM=
+
+Name: res/drawable-hdpi/zroom_03.png
+SHA1-Digest: P7+X9cBoRm5wwiT2lcxeIVCU1DU=
+
+Name: res/drawable-ldpi/bgload4.png
+SHA1-Digest: IRfsGcg0U7X1I+IadysKcxh8RXQ=
+
+Name: res/drawable-hdpi/bgiconroom3.png
+SHA1-Digest: uONfNTBbgtM9BRhKxpiPAlu/GRs=
+
+Name: res/drawable-hdpi/roomicon28.png
+SHA1-Digest: wXAWlSplf+XMwaH6/oAS455uYOA=
+
+Name: res/layout/sccreatesetschedule.xml
+SHA1-Digest: Rl589jHZ92LZaJix/3xWddKv6/c=
+
+Name: res/drawable-xhdpi/selectgatewaywireless.png
+SHA1-Digest: qTWTByDd3aDtUeFwRGvdlg+YsSY=
+
+Name: res/drawable-hdpi/zroom_08.png
+SHA1-Digest: V7NZQCgIPsDmQbKExNqmjGnjBwY=
+
+Name: res/drawable-mdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: HHc+sqWu5XtWgMQhN1F5cAwzeew=
+
+Name: res/drawable-ldpi/btnclosenorm.png
+SHA1-Digest: lHn8JVupFsG2dGZHaE0nbIq1600=
+
+Name: res/layout/settingsoobeidentifyrow.xml
+SHA1-Digest: VmOX5KrMCBd065zPdnQEsz100Nc=
+
+Name: res/drawable-mdpi/btnpopupclosepress.png
+SHA1-Digest: udduO048/Np6wSfIGPoGbR0yb8w=
+
+Name: res/drawable-xhdpi/next_normal.png
+SHA1-Digest: LxF0ywozPctiWBUKsabUQazZQqY=
+
+Name: res/drawable-mdpi/waitindicatoranim.png
+SHA1-Digest: S/j2mLcgmFHscOfG0ULAQqR+DpU=
+
+Name: res/drawable-mdpi/bgrefreshicongrey.png
+SHA1-Digest: aGvlxRuROFjd0WwNXjqiWXD5LKE=
+
+Name: res/drawable-hdpi/bgload2.png
+SHA1-Digest: I7Xw/uy1zNP6+Kx5ZU2Hq9gQ6nE=
+
+Name: res/layout/thermostat_schedule_days_of_week.xml
+SHA1-Digest: MuVFREa8ncESkSSJ6HM46/NEVjo=
+
+Name: res/drawable-ldpi/bgstep2.png
+SHA1-Digest: /lRemKqWzkL/dax+HHHNT6eIz2g=
+
+Name: res/drawable-xhdpi/cellgreynorm.png
+SHA1-Digest: LV390Yp0ktcUz+7DenIhyOBhBys=
+
+Name: res/drawable-hdpi/bgiconroom20.png
+SHA1-Digest: Iplf6mlNSlT2KYXO0HQH7/20aHI=
+
+Name: res/drawable-mdpi/bgiconroom20.png
+SHA1-Digest: 0waCgv3kO/cqC093i257spkIBjw=
+
+Name: res/drawable-ldpi/remote_group_icon.png
+SHA1-Digest: ORUt14mIblWejSKU+IEaUyr7uxw=
+
+Name: res/drawable-ldpi/customicon33.png
+SHA1-Digest: vbsWzOlYWHSS0nK+vxJeMYh74j8=
+
+Name: res/drawable-ldpi/bgdialroom2.png
+SHA1-Digest: 7J/SJgc06L461KL74YWB6it0R5c=
+
+Name: res/drawable-ldpi/bgloadbig6.png
+SHA1-Digest: Zp1en1L+F7T7YxXKJwBFgSVNeiU=
+
+Name: res/drawable-mdpi/roombar22.png
+SHA1-Digest: SI4u2sx86BrDOBcyUNJJeErC6og=
+
+Name: res/drawable-mdpi/bgdialroom7.png
+SHA1-Digest: gnzs8vOegnKaWwM+vRmHweEbPJo=
+
+Name: res/layout/login.xml
+SHA1-Digest: 3v6u6DMLxNq2s4DPB9yRSkVo9O8=
+
+Name: res/drawable-ldpi/bgload3.png
+SHA1-Digest: mkg3OL7MMEzwgrPFNxMnRV85W3o=
+
+Name: res/layout-sw600dp/guide.xml
+SHA1-Digest: tD/JI/MHPNEHZSrJxmELx99rZDA=
+
+Name: res/drawable-hdpi/ic_wifi_full.png
+SHA1-Digest: n92b+Z5TOiNvgq2E2KK+0GsD2Ls=
+
+Name: res/layout/fixture_add_light_row.xml
+SHA1-Digest: PF/vCf8bMV7UTfaPHJv34pi53zM=
+
+Name: res/drawable-mdpi/bg1port1.png
+SHA1-Digest: ylb2XcnU74gfkaZGsCIm72kYQqI=
+
+Name: res/drawable-hdpi/roomicon1.png
+SHA1-Digest: KsOcL7VYdeQW/SvqhB4Id9vGhzk=
+
+Name: res/layout/sccreateselectname.xml
+SHA1-Digest: 6cZvUb1K21QlcLWLtJsY75r70z0=
+
+Name: res/drawable-mdpi/bgloadbig5.png
+SHA1-Digest: z1HOY0pai45fN09//MjvtiSfKo4=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: JZkUxz12rBkpAEXerqWFNleTaIc=
+
+Name: res/drawable-hdpi/btnclosenorm.png
+SHA1-Digest: yitYIxOr36ktSUAOgPzNlwKs3Eg=
+
+Name: res/drawable-ldpi/bgdialroom6.png
+SHA1-Digest: 3mJJZ6QMNvKJeuluNZpel0HPg9A=
+
+Name: res/layout/settingssetupremoteaccessrow.xml
+SHA1-Digest: OPcNZHZyCdJTCuVpaviUh/HYwxg=
+
+Name: res/drawable-ldpi/washing_machine.png
+SHA1-Digest: 2NEVdiqPgTx6bqTaX4Jew1SqhN8=
+
+Name: res/drawable-mdpi/bgiconroom21.png
+SHA1-Digest: HvhhQ8mxl1yCHJP0NIaGiaqgvOA=
+
+Name: res/drawable-mdpi/cellgreynorm.png
+SHA1-Digest: MXB5oeTKVzSl4+4viwO5eT64/00=
+
+Name: res/drawable-hdpi/bg6port6.png
+SHA1-Digest: qBmBjmur7quLt2v8LELLi5IRXzM=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 1nB29gilkMG21U2c1UzWz5vtjpc=
+
+Name: res/drawable-mdpi/group_selected_icon.png
+SHA1-Digest: 1jskCyoaKqEL5tUt5wYmtb6P/jc=
+
+Name: res/drawable-hdpi/bg6port4.png
+SHA1-Digest: 6ffapkY4D0RVm7dBfSXqiGi83mk=
+
+Name: res/drawable-xhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: NEAofQuoLcRt99gbmL+/kRTDnUE=
+
+Name: res/layout/sys_info_row.xml
+SHA1-Digest: HsRbvS/7KR4gqbgvDxcYMNUGWKM=
+
+Name: res/drawable-hdpi/roomicon6.png
+SHA1-Digest: gbKgfuowr3nsUBhQ/Xnjkb1Ud54=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9
+ .png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: ppRAUb4e8AfMY+hiTgUxYeX8bDw=
+
+Name: res/drawable-ldpi/waitindicatoranim.png
+SHA1-Digest: X68LIeKFb8yJafiHx6L6zTjEVQM=
+
+Name: res/drawable-hdpi/waitindicatorbase.png
+SHA1-Digest: asLhFPOw+JvTFRlbEsxLlYyc5So=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: CFcKGCNCXdElgRyG3GU1cR7Lpck=
+
+Name: res/drawable-hdpi/bgstep2under.png
+SHA1-Digest: KtPaWdYdEuNgn9dsk2eQnI6fvVk=
+
+Name: res/drawable-hdpi/bgiconroom12.png
+SHA1-Digest: zDjOTEX/Njyao9LqyBkVkZWKxEs=
+
+Name: res/drawable/roundedbuttonpress_sc_shape.xml
+SHA1-Digest: Ebr/C8kNJyOaIK8Wdns/B/Ewl8I=
+
+Name: res/drawable-hdpi/bgiconroom26.png
+SHA1-Digest: nmK1xAFAeDFRNe2dchvH2dERM1g=
+
+Name: res/drawable-hdpi/customicon9.png
+SHA1-Digest: di8vZYJ4zfy5WxvuATyPIsEXdMQ=
+
+Name: res/drawable-hdpi/iconplaceholder.png
+SHA1-Digest: BgRaqPcc+PRPn5ek15svELEzC0E=
+
+Name: res/drawable/room7roundedcellshape.xml
+SHA1-Digest: 0UoYmtBmC9seYbnVqivi49J/ZyQ=
+
+Name: res/drawable/btncontrolselector.xml
+SHA1-Digest: g6S74aqCbWZ0c0D+8S1ko57s7Wc=
+
+Name: res/drawable-ldpi/ic_thddark.png
+SHA1-Digest: NyiiliKiYVXQOFXhKWou2RO6XO4=
+
+Name: res/drawable-mdpi/bgiconroom18.png
+SHA1-Digest: 7WmwglnC3CHZU+M/7oLaanY1NAQ=
+
+Name: res/drawable-mdpi/btnblacknorm.png
+SHA1-Digest: WoPvIghQWIxM7flkbxt737VkS4I=
+
+Name: res/drawable-ldpi/bgloadbig8.png
+SHA1-Digest: uuI6av4VXHv2NUgztvQud/O15ZY=
+
+Name: res/drawable-hdpi/roomicon17.png
+SHA1-Digest: PyW7zLEeee/3oZiBFpJeWVtNsV8=
+
+Name: res/drawable/room8roundedcellshape.xml
+SHA1-Digest: P5Zf+isGD95zd0UG55iRUyuE1hw=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: cyroPBwNNxlz5xXq1uSZsOxhnH0=
+
+Name: res/drawable-ldpi/sensor.png
+SHA1-Digest: Xaysbd0V2f1MqcWohc6L/Ze8zkY=
+
+Name: res/drawable/cellselector.xml
+SHA1-Digest: H6FnJP7x4kAw98U6ADQ5PcWd6Yw=
+
+Name: res/drawable-ldpi/sliderthumb.png
+SHA1-Digest: NvrHrBsKyc+jPwZNqsiNoppjHxI=
+
+Name: res/layout/myhomedevicewidgetdimmerpopup.xml
+SHA1-Digest: mdWfSVf/9692T68DCGEUg4tG5Ws=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: dV3F0Sz7MxTs+Trhe4uXp7Q7aSs=
+
+Name: res/drawable-mdpi/roombar25.png
+SHA1-Digest: elPkFmKhGOQYrlzapzoATH3+Y5Y=
+
+Name: res/drawable-ldpi/customicon18.png
+SHA1-Digest: EQMlyHbPU1Qht/Wej+nU650/u9k=
+
+Name: res/drawable/cellmiddleselector.xml
+SHA1-Digest: RLjahPN8BlXZgxC6al3JQ2daWvQ=
+
+Name: res/drawable-mdpi/bgiconroom16.png
+SHA1-Digest: pGBzbt5ZuMvSuDNC7NdpxZFIBTI=
+
+Name: res/drawable-hdpi/bgload1.png
+SHA1-Digest: lfGaSiM1/BVdP1040fUknwsuL9M=
+
+Name: res/drawable-ldpi/btndevicenorm.png
+SHA1-Digest: aZBB8oQwHkL9PVh7mpOpubF1AHI=
+
+Name: res/drawable-mdpi/ic_wifi_full.png
+SHA1-Digest: qXZEv552V3wbQH1WjaWwp45sq5c=
+
+Name: res/layout/oobe_thermostat_locate_layout.xml
+SHA1-Digest: YLrMs48FMOzIP8oqYTsORBESQ80=
+
+Name: res/drawable-hdpi/ic_plusone_small_off_client.png
+SHA1-Digest: MDqgTVve/ECWdg1RF1Xo/IJ49zo=
+
+Name: res/drawable-mdpi/bgtopbar0.png
+SHA1-Digest: O55BFjT0glXlflA+cvwD3MpS/zA=
+
+Name: res/drawable-xhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: LtV8CfoAmgWuTGWNZXeWeNDR1hY=
+
+Name: res/drawable-ldpi/zroom_08.png
+SHA1-Digest: kBqO7UCB1g4J0Nq8iX9RixthQew=
+
+Name: res/drawable-hdpi/settingsmanageroomsicon.png
+SHA1-Digest: GGmlxOP9rg3XmvbF1HQj2CKLulA=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: THnQ9r/oTuPB60ajOYXvK1GrUsE=
+
+Name: res/drawable-sw720dp/ic_set_time.png
+SHA1-Digest: SbprQ5cUBVUMs38P4Z6mUTsfq4s=
+
+Name: res/drawable-mdpi/bg6port6.png
+SHA1-Digest: QHAqUo5BQg9k0W3zztQKS+5Id5c=
+
+Name: res/drawable-hdpi/remote_deselected.png
+SHA1-Digest: JIpHG1AHYjYDk4f7l23iGVIYbts=
+
+Name: res/drawable-mdpi/btndevicenorm.png
+SHA1-Digest: SvG+qAkTwJgfGvnq5YoTFBXkZ5U=
+
+Name: res/layout/lightingscene.xml
+SHA1-Digest: 4W0XESJHKEWoSVsNozNM3fqM8yk=
+
+Name: res/drawable-mdpi/room_swipe_arrow_left_active.png
+SHA1-Digest: OIE+y3I1il9/BB9encaHEgQasVg=
+
+Name: res/drawable-sw720dp/roomicon2.png
+SHA1-Digest: N2LM/ROUoqesrYIJZQl6RTCJnpY=
+
+Name: res/drawable-hdpi/wirelesstroubleshoot_step1.png
+SHA1-Digest: tuCtS2iz2qviYsare7NwueOZBaU=
+
+Name: res/layout/settingsmanageeachroom.xml
+SHA1-Digest: YXg7/FnzD5mUJNiez4GPVURqy30=
+
+Name: res/drawable-mdpi/btnroomheader0.png
+SHA1-Digest: qN/fM7KdukGTHdqKvPvnNHZKtsg=
+
+Name: res/drawable/bgloadanim.xml
+SHA1-Digest: LP3Fl0/Btu2okOfH+c1PgLeBmUY=
+
+Name: res/drawable-mdpi/roomicon3.png
+SHA1-Digest: Ncm/EkCRFTUOXDL9K0rFspxPbg0=
+
+Name: res/layout/lighteditrow.xml
+SHA1-Digest: bCwCESz8O4pctjcGyqgw46xa4iw=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: 29jlpwaYo8yADFvg53lRNdVbvt0=
+
+Name: res/drawable-hdpi/bgdialroom2.png
+SHA1-Digest: 5Ty6uVN2qA7yPwFO8yKZaYi55B4=
+
+Name: res/drawable-hdpi/bg6port2.png
+SHA1-Digest: xQUslHGb2wwHkABsi1fGpAhBujI=
+
+Name: res/drawable-hdpi/cellroomnorm7.png
+SHA1-Digest: viyOx1/5PASzcy99QQSEGDM1Xzg=
+
+Name: res/drawable-ldpi/btndevicepress.png
+SHA1-Digest: FE9d5YsIY5e1eKYmqywoS8ScyKg=
+
+Name: res/drawable-hdpi/customicon25.png
+SHA1-Digest: a1MH+5MfnEV+q11nfKV5BQwEsLY=
+
+Name: res/drawable-hdpi/multiple_bulb.png
+SHA1-Digest: c3rd7V8NlpXFU6YUh3IvzH+yIUY=
+
+Name: res/drawable-hdpi/bgdialroom6.png
+SHA1-Digest: rz8N8YgcWpITw0GrHxiB/R5FDkI=
+
+Name: res/drawable-xxhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: nnQrYOSge8+DJ/aZ1dVTUztprv8=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: res/drawable-ldpi/customicon26.png
+SHA1-Digest: XzUyXrpHbjrOZq+O5fDiVb8mmyY=
+
+Name: res/drawable-hdpi/remote_btn.png
+SHA1-Digest: StWVDC66/+KXKNSC3JE1BT4brU0=
+
+Name: res/drawable-mdpi/bgdialroom8.png
+SHA1-Digest: 8fZKF6ELYTAkT88bEOP12BZbJcU=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: WqQF3y/vDvl0c3tlpCQMUlAGR90=
+
+Name: res/drawable-mdpi/btnscenenight.png
+SHA1-Digest: Gc/8qbW8QHauKoQYr3fPy5ftPuM=
+
+Name: res/drawable-hdpi/customicon10.png
+SHA1-Digest: dgBu+Vw6Lp/iUiYtuZBzQF7uAGg=
+
+Name: res/drawable-ldpi/bgdialroom5.png
+SHA1-Digest: dza/dQ5l8rP6FXm9fnS+wwMKGII=
+
+Name: res/drawable-hdpi/refresh_icon.png
+SHA1-Digest: Qx8AewXQeCckq6Y6E/k/uZkXE4Y=
+
+Name: res/drawable-ldpi/bg6port1.png
+SHA1-Digest: q+yivSlUb/AJIt0+byFquxwoXhA=
+
+Name: res/drawable/tab_bg_selected.xml
+SHA1-Digest: 1xVxAb26RIm2kfpLkBxQ46nie0c=
+
+Name: res/layout/mylightsroom.xml
+SHA1-Digest: 38hgG2aY8XeYTe7/TLGF5HkI4fw=
+
+Name: res/drawable-mdpi/bgidentify.png
+SHA1-Digest: h8Tk1b1+wR2UQL+zc9ZB8xW4zgg=
+
+Name: res/drawable/depot_bg.xml
+SHA1-Digest: No2QMeY/SfDTfjK7wiHkgUCMBMs=
+
+Name: res/drawable-hdpi/dimmer_background.png
+SHA1-Digest: CmMosbpuVuK1tG1sATUf7j/VeVo=
+
+Name: res/drawable-hdpi/ic_preview.png
+SHA1-Digest: MuH7xFhiMWBEUYLFVrSY3MLWCnw=
+
+Name: res/drawable-mdpi/roombar11.png
+SHA1-Digest: 4ueFV6rw1WYvOFyxeo+lPsU5AbM=
+
+Name: res/drawable-ldpi/bgiconroom7.png
+SHA1-Digest: 6enSD1YfIPwyqt6woaKZu0XSc4Y=
+
+Name: res/drawable-ldpi/buttondelete.png
+SHA1-Digest: w6gXTqbf5OfeKNVaGoqYZZ92K/k=
+
+Name: res/drawable-ldpi/bgshadowtop.png
+SHA1-Digest: 2WIG1iC7FZ58BFHdM8gWIMh4yP4=
+
+Name: res/drawable-hdpi/settingslightsfixturesicon.png
+SHA1-Digest: QkpjG63x9nrcnAmr60fJH25KqEQ=
+
+Name: res/drawable-ldpi/bgdeviceoptions.png
+SHA1-Digest: 4AggmWngDnqZmUSLIterl9vKpA0=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: THnQ9r/oTuPB60ajOYXvK1GrUsE=
+
+Name: res/drawable-ldpi/bgiconroom25.png
+SHA1-Digest: YEM6GdT3C2j80Nfiv4jLv7I1UQs=
+
+Name: res/drawable-mdpi/bgtopbar5.png
+SHA1-Digest: 0MtFhqwWHaBw3VKMrf2BSy3Ca4Q=
+
+Name: res/layout/guide.xml
+SHA1-Digest: xildRBbsBQ5AoXBdbhSdYIJmWrc=
+
+Name: res/layout/settingsoobeidentifydeviceswitch.xml
+SHA1-Digest: +bwKuIup+uN1M/3b9uhUHmUXinY=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: pqaNLs/txzPM284m6vQgthC9m0k=
+
+Name: res/drawable-hdpi/bgiconroom19.png
+SHA1-Digest: egKmPqhaMeAPTZ7DZU9z+N4E0DQ=
+
+Name: res/drawable-hdpi/heart.png
+SHA1-Digest: YbJ5ayNvMTqUMZXEE+iZ2Zd+/50=
+
+Name: res/drawable-ldpi/bgload.png
+SHA1-Digest: He59dpKIqmRgl3Hft0TW142s6yg=
+
+Name: res/drawable-mdpi/roombar13.png
+SHA1-Digest: qyYCBZwuj6sptcRHhxPHWUQ1KZ8=
+
+Name: res/drawable-mdpi/btnsceneaway.png
+SHA1-Digest: XxX87ipI+hfElInD9s5/9cbTUAA=
+
+Name: res/drawable-hdpi/bgtopbar5.png
+SHA1-Digest: 6Gy9uelbsIr+Z4nMjD9lQ0R+PC0=
+
+Name: res/layout/choose_room_dialog_row.xml
+SHA1-Digest: BT/WKF7kkMaSf5oECXcIiErt64Q=
+
+Name: res/layout/oobe_smartcontrol_item_view.xml
+SHA1-Digest: FGpinQl9aWCCG5OEUeHYbgN9ApI=
+
+Name: res/drawable-sw720dp/roomicon7.png
+SHA1-Digest: Z6QVndEqDLFJllYN5b7ZUAppOxk=
+
+Name: org/teleal/common/schemas/xhtml1-strict.xsd
+SHA1-Digest: A9WDwMLgTxbXxAogXeFPR1pawDM=
+
+Name: res/drawable-hdpi/bgdemocam.png
+SHA1-Digest: 43MFxw8Wnxnm6S7Bd3m6pPYL/N8=
+
+Name: res/drawable-xxhdpi/ic_wifi_low.png
+SHA1-Digest: t/vUUohH38XvqGmNToQdez9wkhc=
+
+Name: res/layout-small/scsetschedule.xml
+SHA1-Digest: W8BDC7ScAc9LkjklAXVOmmYEUZw=
+
+Name: res/drawable-xhdpi/securenetworksettings.png
+SHA1-Digest: klw/jNB/7QhAFdIkqKm5ynqgRtw=
+
+Name: res/drawable-ldpi/thermostat_oobe_found.png
+SHA1-Digest: FDGri3J7XDMUc+12uPj4jZ/I/3Y=
+
+Name: res/drawable-hdpi/bgidentifyoff.png
+SHA1-Digest: bJ6O6UlF10XMOiswnqiP4C9T+es=
+
+Name: res/layout/widgetsmartcontrolpowerselect.xml
+SHA1-Digest: DSgdxFYlfQf4C7A0dBf8vkEKzS4=
+
+Name: res/drawable-mdpi/create_edit_light_bg_icon.png
+SHA1-Digest: 7aLCZ96NcCygenQsMrpGzKiPziY=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: ZDogSdlgVekmFIAbKguvig7+XGg=
+
+Name: res/drawable-mdpi/roomicon7.png
+SHA1-Digest: c7ovJBuPS0D3wBdFNaKKkZrTrd8=
+
+Name: res/layout/bridge_select_network.xml
+SHA1-Digest: Gx+R5dUmeFA2KNdqFtgRd7I3iLo=
+
+Name: res/drawable-mdpi/bgdialroom3.png
+SHA1-Digest: 9OHD+YFEkruzQktRRFgtPtsW86Q=
+
+Name: res/drawable-hdpi/bgidentify.png
+SHA1-Digest: nnKdN7FD51E7bypyO7WlymMQ3eI=
+
+Name: res/drawable-sw720dp/roomicon6.png
+SHA1-Digest: gbKgfuowr3nsUBhQ/Xnjkb1Ud54=
+
+Name: res/drawable-ldpi/wirelesstroubleshoot_step3.png
+SHA1-Digest: 9JT7N4kIRyr8/0dPfC7OCnnQHQk=
+
+Name: res/drawable-hdpi/bgtopbar1.png
+SHA1-Digest: RJAn1wlafF1v2Ets5kDYEMfMAr4=
+
+Name: res/drawable-mdpi/roombar15.png
+SHA1-Digest: lflXKG+rUjAyLQ2qiYJyfzUq254=
+
+Name: res/drawable-hdpi/bgloadbig6.png
+SHA1-Digest: zhMKGn7WfgpXY6afMkstQ/2a1RU=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: MYOHPJ6E4KbuMC+bP8Nizi+tsZc=
+
+Name: res/drawable-mdpi/selectgatewaywireless.png
+SHA1-Digest: ldTRT4g6zABmPGTs0RqJocPpaYM=
+
+Name: res/layout/widget_myhome_view_light.xml
+SHA1-Digest: 82gdiKvHJzRDo55TsFVmQDiWQN0=
+
+Name: org/teleal/common/schemas/xml.xsd
+SHA1-Digest: gjDrO5ouEpCNICsEu4Rw2uA0cuE=
+
+Name: res/drawable-hdpi/bgloadbig1.png
+SHA1-Digest: R89XMvzXFnYlCVt3aqG9KUhluEQ=
+
+Name: res/drawable-mdpi/roombar23.png
+SHA1-Digest: Smq5Nlo620/QzXb0PNeMAOzp7Ck=
+
+Name: res/drawable-hdpi/thermostat.png
+SHA1-Digest: pof4MWhJD4ZTe++b6LrUY/01yo8=
+
+Name: res/drawable-ldpi/ic_thd.png
+SHA1-Digest: 2rrBLQxnUObA7+HHnZNqGMkh1K8=
+
+Name: res/layout/widget_myhome_device_view_dark.xml
+SHA1-Digest: vR+DcAQH6s31azjLPVUjvZ0wRJY=
+
+Name: res/drawable-hdpi/next_pressed.png
+SHA1-Digest: zKWBeSCB/Ov0yLjyRtljvA4admo=
+
+Name: res/drawable-hdpi/bgiconroom24.png
+SHA1-Digest: dkvaMH1/t4ivEaFFzZz5hpl/wr0=
+
+Name: res/drawable-hdpi/customicon1.png
+SHA1-Digest: YbJ5ayNvMTqUMZXEE+iZ2Zd+/50=
+
+Name: res/layout/settingsoobeidentifyroom.xml
+SHA1-Digest: ChDGKec/BqHf7hqfwmfazrUHTo8=
+
+Name: res/drawable-hdpi/cellgreynorm.png
+SHA1-Digest: r4WDwUwmKVuH/XZ1LbvlWHdvJYY=
+
+Name: res/layout/light_remote_row.xml
+SHA1-Digest: tT7P8tG6FTyQae3kDyjYjKt1Uu0=
+
+Name: res/drawable-hdpi/customicon27.png
+SHA1-Digest: P7+X9cBoRm5wwiT2lcxeIVCU1DU=
+
+Name: res/drawable-hdpi/bgdialroom7.png
+SHA1-Digest: 9da40o6q9YNVBdc+UTMK6VFM8BY=
+
+Name: res/drawable-mdpi/bgiconroom4.png
+SHA1-Digest: BVwI1hrNelfMyuPtEJ8ZsUxnus0=
+
+Name: res/drawable-hdpi/back_pressed.png
+SHA1-Digest: tvxC7oeSvZ6HHUzmdUNIUEZIye4=
+
+Name: res/drawable-mdpi/thermostat_oobe_not_found.png
+SHA1-Digest: nH7Y0cT9c+l9uVr9Ttf1Kuza/Y0=
+
+Name: res/drawable-mdpi/bgload5.png
+SHA1-Digest: XUPtVb3uazFaT9f0A+nRGAyJYqQ=
+
+Name: res/drawable/cellgreyselector.xml
+SHA1-Digest: L4PEvpzvZMzxzB6/F9Ft4pFdKHY=
+
+Name: res/drawable-mdpi/bgload.png
+SHA1-Digest: P3vv1HRFDZB9ieD87HqERICtcN8=
+
+Name: res/drawable-hdpi/zroom_07.png
+SHA1-Digest: a1MH+5MfnEV+q11nfKV5BQwEsLY=
+
+Name: res/drawable-hdpi/bgdialroom4.png
+SHA1-Digest: XwYj89RNtVzHUNPnfP8DF4Nu7gg=
+
+Name: res/layout-sw720dp/guide.xml
+SHA1-Digest: Z4ug0d5U1uiw985ZIfLW6pgtFxo=
+
+Name: res/drawable-ldpi/create_edit_light_bg_icon.png
+SHA1-Digest: YbMs/19bCpjRiJTgFVKEh9u93sM=
+
+Name: res/drawable-xhdpi/room_swipe_arrow_left_disabled.png
+SHA1-Digest: 7+F4nfe/BHUMqOvtmY6/bN0fzFE=
+
+Name: res/drawable/roundedbuttoncontrolpressshape.xml
+SHA1-Digest: ASXVeijbleZUC7QYzYQFm3xWtSs=
+
+Name: res/drawable-ldpi/bgiconroom6.png
+SHA1-Digest: mEncJN7qNyiGr0/7VhpNi5/VwiU=
+
+Name: res/drawable-mdpi/ic_delete_sc.png
+SHA1-Digest: CwX8xPcuDIX0emTdyGvCzbM99HU=
+
+Name: res/drawable/bg_circle_gray.xml
+SHA1-Digest: l72OMHWhPnq3Tk4Y9ezVqX50kq8=
+
+Name: res/layout/security_secure_network.xml
+SHA1-Digest: SgXTB13krVtTU6svTYnh6r0ZwNQ=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: 29jlpwaYo8yADFvg53lRNdVbvt0=
+
+Name: res/drawable/room2roundedcellshape.xml
+SHA1-Digest: k9Xt5GPXZUh7dOSyoXl9fh9qaAg=
+
+Name: res/drawable-mdpi/roombar5.png
+SHA1-Digest: Zz89vamc/c/PcLY3jSFiBKIwUY8=
+
+Name: res/layout/bulbnotfound.xml
+SHA1-Digest: kLpenyWM2hCT0p2KIA4zHZ+fIZ4=
+
+Name: res/drawable-sw600dp/roomicon0.png
+SHA1-Digest: tMAjbeS8u6oBfzsoZ5hBOxcgQW0=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: bENWi8ZugwD88Ech+3ZELNcC/Kw=
+
+Name: res/drawable-ldpi/group_selected_icon.png
+SHA1-Digest: 8vpyCvRX2H/ot3UTbww1PV9eVFI=
+
+Name: res/drawable-hdpi/room_swipe_arrow_left_active.png
+SHA1-Digest: QdE45LXUhUPFagp5FkYekB18oIw=
+
+Name: res/drawable/btn_sc_selector.xml
+SHA1-Digest: zezcvHQz/sPMFWulNbDlmnFIVWM=
+
+Name: res/drawable-mdpi/btndimmernorm.png
+SHA1-Digest: QQlnqreGHKfYbe5ILCjggSk+2Ro=
+
+Name: res/drawable-ldpi/lamp.png
+SHA1-Digest: 4HbgdjSzIH80gc5wTgDc6jZGanQ=
+
+Name: res/drawable-ldpi/btnsceneaway.png
+SHA1-Digest: ZjufNnrwFE3Svt2nhD6JkAbxqDk=
+
+Name: res/layout/sccreateonofftimeview.xml
+SHA1-Digest: fuewll3+gFDzXtz/xORd/OhP9n0=
+
+Name: res/drawable-hdpi/bgiconroom8.png
+SHA1-Digest: xh1XEfkI2OQBydzlWIfz9Yo8s/8=
+
+Name: res/drawable-hdpi/roomicon15.png
+SHA1-Digest: Hs3i58QT8TaB5M/H0LxtKoEbrU0=
+
+Name: res/drawable-mdpi/bgpowerselect.png
+SHA1-Digest: BWyhwaXZRPPy2K2r9ZCKSUnQ2gI=
+
+Name: res/drawable-hdpi/roomicon31.png
+SHA1-Digest: aydB+cnDWnCoYc3x91vdkzzpmbo=
+
+Name: res/drawable-ldpi/bgrefreshicon.png
+SHA1-Digest: DNG/aRClIIOnW3XTK6OGKC7lavE=
+
+Name: res/drawable-ldpi/customicon8.png
+SHA1-Digest: RJ9hQQ+C3sHcuvH7PLRYAZJydwk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: +g/EIqKdEj6wdZxzTRFfYKulcY8=
+
+Name: res/drawable-mdpi/bg6port4.png
+SHA1-Digest: 2OJIXoyXt6CznwpVvsxWWmVEBRM=
+
+Name: res/layout/lightsandfixturesrow.xml
+SHA1-Digest: idi+XXshjGzCZ7Ax/HTkPFq9+0I=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: sogkwPIuxCB8PbcNS4dvReJsVLs=
+
+Name: res/drawable-ldpi/customicon11.png
+SHA1-Digest: 6IEhIqTeKgYbWbLO4LPznlUgd4c=
+
+Name: res/drawable-hdpi/bgheaderbar.png
+SHA1-Digest: GPjXBRn7fhHvIZqTUQCElJfXtU0=
+
+Name: res/drawable/btnfontselector.xml
+SHA1-Digest: v4kPCc6SAJjNlsryEijQXUjg1CI=
+
+Name: res/layout/smartcontrolcboxrow.xml
+SHA1-Digest: LbfJMqvSRs7V92cAJ9pHsWYTLfA=
+
+Name: res/drawable-ldpi/zroom_06.png
+SHA1-Digest: wY9rZJ2Oe4lrHERWxKmhc8utCrQ=
+
+Name: res/drawable-mdpi/bgshadowbottom.png
+SHA1-Digest: r4+WjIkfu+V4oOUB5Z68Wu5GRiA=
+
+Name: res/drawable-ldpi/clock.png
+SHA1-Digest: MYjuhDoiTLMC7C2/YB6Cqa4AlZo=
+
+Name: res/layout/smartcontrolscenelistrow.xml
+SHA1-Digest: KFlo3cX3dxJ7MI8u9b+KwXoui3k=
+
+Name: res/layout/scsetschedule.xml
+SHA1-Digest: mm7cpUMSeP/uGN5PFg8LzGQA1mw=
+
+Name: res/drawable-hdpi/customicon24.png
+SHA1-Digest: nWyMVkISgeRsoSRIJEIyo4oakLQ=
+
+Name: res/drawable-mdpi/room_swipe_arrow_right_active.png
+SHA1-Digest: JU6LvA8/hLr7EX8cLHxvkvfsPsI=
+
+Name: res/drawable-ldpi/ic_sunset.png
+SHA1-Digest: rQarwCMfeby64s7Nq2jPTwFZIgk=
+
+Name: res/drawable-mdpi/roombar7.png
+SHA1-Digest: yDL9Rp5JCnMIRlzxm1DCEdWm+H8=
+
+Name: res/drawable-ldpi/customicon27.png
+SHA1-Digest: 31w2sRyVo5c2w/4qtc9suVZ5q9U=
+
+Name: res/drawable-hdpi/roomicon11.png
+SHA1-Digest: 35OowxzmV24htvU5nuRZsUY2I2Y=
+
+Name: res/drawable/room9roundedcellshape.xml
+SHA1-Digest: HHVWVr5Z4jRVvMf63gR7gK7OCWU=
+
+Name: res/drawable-hdpi/bgdialroom1.png
+SHA1-Digest: r3ZCuJJZuD/qIGyfbmtIk7I+ddE=
+
+Name: classes.dex
+SHA1-Digest: vFaQvAijzSEkgE0QFAoRj2BeZ/E=
+
+Name: res/drawable-xhdpi/tabsettingsselected.png
+SHA1-Digest: dmWYZpQIQZz1If/+buUrPSGCp1A=
+
+Name: res/layout/oobe_smartcontrol_wizard_layout.xml
+SHA1-Digest: dNWX96jdvbEFXIMzqrq0ztpBddo=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: /w/b5Ahd692RhVH4wOIahCMTR9s=
+
+Name: res/drawable-hdpi/bgiconroom21.png
+SHA1-Digest: pwPP6CAn5faZJxTS0c7un/gmo74=
+
+Name: res/drawable-ldpi/bgtopbar5.png
+SHA1-Digest: ux9JuVdBRUSbvGEykOEnd/9tk+A=
+
+Name: res/drawable-xhdpi/selectgatewayethernet.png
+SHA1-Digest: 74uQeDgxM19vuvAcCC7jH26b3yw=
+
+Name: res/layout/settingssetupremoteaccess.xml
+SHA1-Digest: uxUlUj4eyk9GY0fdJssMUmqyEAU=
+
+Name: res/drawable-hdpi/bulbdimmerslider.png
+SHA1-Digest: Uq2h0blsLUJmvwWsauLqKitwN0A=
+
+Name: res/drawable-ldpi/heart.png
+SHA1-Digest: ht89qzyT9kZKW91/rca/rgF7QCQ=
+
+Name: res/drawable-hdpi/bglogin.png
+SHA1-Digest: janXoBrzI03YBCgd82GqyHddBkE=
+
+Name: res/drawable-ldpi/bgsetupwizard.png
+SHA1-Digest: I5V0FMzsHYbrYiIQpiPkuFDphKA=
+
+Name: res/drawable-ldpi/coffee.png
+SHA1-Digest: VimavsoDBSbVYhYrYwmmbLMwOks=
+
+Name: res/drawable-ldpi/bglogin.png
+SHA1-Digest: 8zLHur5hDo+LPJdSYtOsXQNYOR0=
+
+Name: res/drawable-mdpi/bglogin.png
+SHA1-Digest: qDUZKPR5sSfWwL4kl2DDos79ORE=
+
+Name: res/drawable-xxhdpi/ic_thd.png
+SHA1-Digest: Pd6CGFv9z7nTMSvRMMl6Yg/eQg8=
+
+Name: res/drawable-hdpi/bgiconroom29.png
+SHA1-Digest: kuarxGnbEfxwsj5vKTB5uAuQKxQ=
+
+Name: res/drawable-mdpi/wifi_signal.png
+SHA1-Digest: 5c/sH6gp3LdcClWVNi9zvZVT8q8=
+
+Name: res/drawable-ldpi/bgiconroom3.png
+SHA1-Digest: 5SEryUDyblFy+h0C+YlqHsLrtEg=
+
+Name: res/drawable-xhdpi/ic_thd.png
+SHA1-Digest: Pd6CGFv9z7nTMSvRMMl6Yg/eQg8=
+
+Name: res/drawable-ldpi/bulbtextbg.png
+SHA1-Digest: dF/XC6Emre3eRynzjI4b6CrcD9o=
+
+Name: res/layout/settingschooseroomcolor.xml
+SHA1-Digest: KDLrPkGtClyoUiMTsoot7g5SnzA=
+
+Name: res/drawable-xhdpi/waitindicatorbase.png
+SHA1-Digest: asLhFPOw+JvTFRlbEsxLlYyc5So=
+
+Name: res/drawable-mdpi/bgdialroom9.png
+SHA1-Digest: ArLS3lmZd8OEBQTMgTVgFCaatHE=
+
+Name: res/drawable-hdpi/ic_wifi_low.png
+SHA1-Digest: nCqnvEO9hCoU9oKwEPQAVGmGgb8=
+
+Name: res/drawable-ldpi/bguserprofile.png
+SHA1-Digest: Uhb0fUxGdBxm27YH6bBBs8Af2Kc=
+
+Name: res/drawable-hdpi/btnscenenight.png
+SHA1-Digest: ZhQP3Agsxs7t0LEpSs1F6AjBytE=
+
+Name: res/drawable-xxhdpi/ic_wifi_medium.png
+SHA1-Digest: WN+p4OA8X6nOg/DQi0ksyjl7oNY=
+
+Name: res/drawable-mdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: AD2aFw6TcqHuDE1AdYky7h+et9s=
+
+Name: res/drawable-hdpi/help_button.png
+SHA1-Digest: EWImtB6Ybd/ZuxGx9u+92r4juME=
+
+Name: res/drawable-hdpi/bgiconroom5.png
+SHA1-Digest: qmqhBTvu/XoRJFJ9suaou+CyF0s=
+
+Name: res/drawable-sw600dp/roomicon6.png
+SHA1-Digest: gbKgfuowr3nsUBhQ/Xnjkb1Ud54=
+
+Name: res/layout/lightsandfixtures.xml
+SHA1-Digest: gwl5ix6u48JXPm8PlTnvwPN4TAo=
+
+Name: res/drawable-mdpi/cellnorm.png
+SHA1-Digest: Ofj5h+m7b8IJ7/u0UPYG9uCvlmo=
+
+Name: res/drawable-hdpi/customicon33.png
+SHA1-Digest: 8BTUePVm+WNQ3odCyc+i4vQLYuc=
+
+Name: res/drawable-hdpi/cellroomnorm1.png
+SHA1-Digest: beSbUTlAbtxbz9B3e7SNN8TNqS8=
+
+Name: res/drawable-mdpi/thermostat_oobe_found.png
+SHA1-Digest: hPJmLz6iycIE4Qk3041O464ssiU=
+
+Name: res/drawable-mdpi/bgloadbig4.png
+SHA1-Digest: VFUAemlamdv7TsK5RltFaDCtjPg=
+
+Name: res/drawable-mdpi/ic_set_time.png
+SHA1-Digest: 86mzezFBjpC84F89lJ8CNZEXJxI=
+
+Name: res/drawable-hdpi/btnloginpress.png
+SHA1-Digest: wwFY0/EjPt6CsaIJMFHELNbiLXw=
+
+Name: res/drawable-ldpi/wiredtroubleshootplug.png
+SHA1-Digest: 4+oZmTtcSaMgQYRv5/s0jEedpPw=
+
+Name: res/layout/oobe_thermostat_wizard_layout.xml
+SHA1-Digest: jd3/isSmOjXBbXdRpOtL36/7Zlg=
+
+Name: res/drawable-ldpi/bgidentify.png
+SHA1-Digest: XyrmK+IEXUbKLBMvpxMeAjqHmD0=
+
+Name: res/drawable-ldpi/selectgatewaywireless.png
+SHA1-Digest: 7BQLZAkfHD3zgEFlKiPeUushNUg=
+
+Name: res/drawable-mdpi/roombar2.png
+SHA1-Digest: lWB0IwihbZO7LtWnfT8pAa/a+zI=
+
+Name: res/drawable-mdpi/bgdeviceoptions.png
+SHA1-Digest: fZtnDZK1wRbs72PilZVdDrt3I1A=
+
+Name: res/drawable-ldpi/customicon22.png
+SHA1-Digest: 82sHdQuZ723+IFXq3AAwQP1zGRk=
+
+Name: res/drawable-mdpi/settingssearch3.png
+SHA1-Digest: aqlf9ZZBW/ajYMt+4HbippC3uzo=
+
+Name: res/drawable-ldpi/bgtopbar3.png
+SHA1-Digest: T/Pk1CU2NnnZJQ47n+h78670zF4=
+
+Name: res/layout/choose_room_dialog.xml
+SHA1-Digest: c/Nzp4KG3N1XGG051kMuy/1zkcM=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9
+ .png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: res/layout/fixture_edit_light_row.xml
+SHA1-Digest: yRpgPs8zFAND+h1isi94peXgHpk=
+
+Name: res/layout/fixtureedit.xml
+SHA1-Digest: 8qaLxijSgLgOEG4Hi4ceEyrp4PM=
+
+Name: res/drawable-mdpi/cellpress.png
+SHA1-Digest: 1oJSjrjzTfbVA1HsLiJHBArGm+0=
+
+Name: res/drawable-hdpi/roomicon29.png
+SHA1-Digest: awSRzlC9lRbAfUGDuThZGGUaFfo=
+
+Name: res/drawable-ldpi/smartcontrolmanual.png
+SHA1-Digest: uIYhdHs1P/JYFZYKkooufQ002Zg=
+
+Name: res/drawable-xhdpi/ic_set_time.png
+SHA1-Digest: FfFsiIciYvylOzMyhPCff4QC8QQ=
+
+Name: res/drawable-hdpi/bg5port4.png
+SHA1-Digest: EIzoZUgBB9JbfOQ4cUZS5vH4wd8=
+
+Name: res/drawable-ldpi/bgtopbar6.png
+SHA1-Digest: 6PhWT+nadEreE85XueYWCJdHFog=
+
+Name: res/drawable/myhome_widget_preview.png
+SHA1-Digest: i5QX7tKB+QZJIqJMbrX19PKaymk=
+
+Name: res/drawable-hdpi/btndevicenorm.png
+SHA1-Digest: 9NwWT17YGolqkuvHvKFvu62CB2I=
+
+Name: res/layout/setup_select_gateway.xml
+SHA1-Digest: fL0ShYManUgmAjS/h5POzo2Rw7Y=
+
+Name: res/drawable-hdpi/bgpoweroff.png
+SHA1-Digest: 769IVMSykbti2/Kph2tLF9d03fE=
+
+Name: res/drawable-xhdpi/ic_sunset.png
+SHA1-Digest: NKZsnXK2Evll6Vi24+McX9cj8lI=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: zXl4gOYVm22pGbkGC4i82wLIMyg=
+
+Name: res/drawable-hdpi/zroom_05.png
+SHA1-Digest: 1h7Sr6TTVEthhts7HSFs8rtKpV4=
+
+Name: res/drawable-ldpi/bgstep1complete.png
+SHA1-Digest: 18I6+pnW3QEX1JmjdJ3QTdIgA7I=
+
+Name: res/drawable-mdpi/tabmyhomeunselected.png
+SHA1-Digest: 19UtsMHAcB0BmKZicNqm8qj4Rlw=
+
+Name: res/drawable/btnbackselector.xml
+SHA1-Digest: icB9mXq17dWDga+DeHdi6RcO32k=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: w/L+nKDDWadDlwiDybC+JmpbqaI=
+
+Name: res/drawable-hdpi/group_selected.png
+SHA1-Digest: OF3heOFRMxMmBCeb+nJrVpUhA0Q=
+
+Name: res/drawable-mdpi/tabmylightsunselected.png
+SHA1-Digest: Z2WhzdkP8ipqys2K+W6G9yhrdZ8=
+
+Name: res/drawable-hdpi/blue_arrow.png
+SHA1-Digest: Lg7gXBjP+Eds0oTvCD5SZXI7JEM=
+
+Name: res/drawable-ldpi/bgtopbar0.png
+SHA1-Digest: 2IjnykLUXdLNhnjex0J95u8flUo=
+
+Name: res/drawable-hdpi/bgiconroom2.png
+SHA1-Digest: FcVJT/tTiE/EFKiirLJpNMjBn8A=
+
+Name: res/drawable-hdpi/wiredtroubleshootethernet.png
+SHA1-Digest: M/OaHdfiouCevwvdngYnfFFIG18=
+
+Name: res/drawable-hdpi/bulboverlay.png
+SHA1-Digest: o2gbgWEkZmCROE+viQWjx5koZUk=
+
+Name: res/drawable-mdpi/bgstep1complete.png
+SHA1-Digest: HxhfpGBrDC6HayBi1ZBHvmoEj/A=
+
+Name: res/drawable-hdpi/cellnorm.png
+SHA1-Digest: P0oRGVA1x1qALchsKGOgp2vYJ1k=
+
+Name: res/drawable-hdpi/btnclosepress.png
+SHA1-Digest: IwExUU1x1FedfYeeNsl+cpmmmew=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: IXqmYG4624bef7DnPxFG+Uwx1ak=
+
+Name: res/drawable/bgemptyshape.xml
+SHA1-Digest: MqA8SU5lSrU0fjdox6mF4OJgUGE=
+
+Name: res/drawable-hdpi/bgiconroom9.png
+SHA1-Digest: RXwZhng+1YvlkGC26EYj0kc5jI4=
+
+Name: res/drawable-hdpi/tabsettingsselected.png
+SHA1-Digest: vy7qbnTeUz5LDN/jYxcQJuOHdmo=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: 0ky7hJW6fNsa6m2tmjhllqHXHfg=
+
+Name: res/drawable-mdpi/checkblank.png
+SHA1-Digest: RbwSGUlYiYWS7jFw61EaybAFfBQ=
+
+Name: res/drawable-hdpi/refresh.png
+SHA1-Digest: 6on12aaepc46i2Us7zYK9BUCmS8=
+
+Name: res/drawable-hdpi/bg5port2.png
+SHA1-Digest: 5dqRxdkBdKaSoEq81iVDQyne2bQ=
+
+Name: res/layout/bulbview.xml
+SHA1-Digest: +s2IW+yPuVQ5OyUq/Brwx9+1Nas=
+
+Name: res/drawable-hdpi/bulbtextbg.png
+SHA1-Digest: TtxbKEK4HQlhZWcqvumF86UCkjU=
+
+Name: res/drawable-xhdpi/wifi_signal.png
+SHA1-Digest: yuKl4aJWDAjtRcPPZ28P/uX713g=
+
+Name: res/drawable-hdpi/btnpopupclosepress.png
+SHA1-Digest: 3XFptxVrlv/sKh09vEx0mYQdABY=
+
+Name: res/drawable-ldpi/customicon3.png
+SHA1-Digest: MVTtKgkmF6YwJfunarqQ6XyZySc=
+
+Name: res/drawable-hdpi/bgtopbar4.png
+SHA1-Digest: k6HTsR/v1wAIagWbJZQf86gif3A=
+
+Name: res/layout/settingssearchnewlightsview.xml
+SHA1-Digest: jL8opixRldQxsaMZPqFQkYUYeE8=
+
+Name: res/drawable-ldpi/btngreynorm.png
+SHA1-Digest: 5Ewmf+iFYzg5CJxvPKaRMdJ6jgw=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9
+ .png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: FkxxTiMZkZMXGXmeMfd02TtKL64=
+
+Name: res/drawable-hdpi/btndimmerpress.png
+SHA1-Digest: uXi9ZBVYu/sNsaEgCL/oAGahOXA=
+
+Name: res/drawable-xxhdpi/ic_set_time.png
+SHA1-Digest: SbprQ5cUBVUMs38P4Z6mUTsfq4s=
+
+Name: res/drawable-xhdpi/cellnorm.png
+SHA1-Digest: P0oRGVA1x1qALchsKGOgp2vYJ1k=
+
+Name: res/drawable-ldpi/star.png
+SHA1-Digest: chyeuATUlkmoAt5Pz97bXFOG3wY=
+
+Name: res/drawable/btndeviceselector.xml
+SHA1-Digest: /HpPeF6QUXxU4MX/QQK3r5vZr4Q=
+
+Name: org/teleal/common/swingfwk/logging/img/removetext.png
+SHA1-Digest: 9svZ+DsmTaP2omqj5kiTJL6f1sQ=
+
+Name: res/drawable/item_bg_dark.png
+SHA1-Digest: wRHtr0CKQqfskibqFfp79QBvcis=
+
+Name: res/drawable-hdpi/bridge_light.png
+SHA1-Digest: v0NQEWxUz8vkO7G+ng8BUM9jvIs=
+
+Name: res/drawable-mdpi/roombar14.png
+SHA1-Digest: IartCtFBD2y8M99DPhtcOvtBs3c=
+
+Name: res/layout/settingsmanageroomsrow.xml
+SHA1-Digest: ZGc/LMRkpE9ODjTwSxz7S7+UhKU=
+
+Name: res/drawable-ldpi/bgload0.png
+SHA1-Digest: W3rHQ9bUcxmEFN9TuIZHzscdpcY=
+
+Name: res/layout/smartcontrolschedulerow.xml
+SHA1-Digest: DG5jJPohnyMVgrG/Uws7LG/So1o=
+
+Name: res/drawable-mdpi/bgiconroom0.png
+SHA1-Digest: 4gz511OyhVGTKDCZuI/mziPHdMo=
+
+Name: res/drawable-hdpi/bulbbg.png
+SHA1-Digest: HMra9wGz8rI1fZMfxly+PzWt7kc=
+
+Name: res/drawable-hdpi/wirelesstroubleshoot_step3.png
+SHA1-Digest: bXyH+/CGP+fMEeZe4uYjs3k9R4o=
+
+Name: res/drawable-hdpi/bgtopbar2.png
+SHA1-Digest: PvF38s6Q0Mx+ZzoukB8LtKiFbgo=
+
+Name: res/drawable-hdpi/coffee.png
+SHA1-Digest: 4eYQ/hGCgafAxfJnqrSc3xq1nvY=
+
+Name: res/drawable-mdpi/bgiconroom27.png
+SHA1-Digest: VCced/tKJI5ZNTat0mPPQQlePO4=
+
+Name: res/layout/settingssaveroomname.xml
+SHA1-Digest: D6Fps5+41eANnBk5LeavTBUSNwA=
+
+Name: res/drawable-mdpi/wiredtroubleshootplug.png
+SHA1-Digest: g3NmTUM8B89nwZLr4Im2j4w+j4I=
+
+Name: res/drawable/tab_bg_unselected.xml
+SHA1-Digest: ggZG0Ve6+TFOzXA1aJtgWnTEnfU=
+
+Name: res/drawable-mdpi/roombar20.png
+SHA1-Digest: 6ZAT3lAlJVXS7ot/EwuJ5emu0lM=
+
+Name: res/drawable-mdpi/bgload3.png
+SHA1-Digest: 7izqenOC6H37mZ4PBmxUIn7ajss=
+
+Name: res/drawable-ldpi/securenetworksettings.png
+SHA1-Digest: +kIrL9lg0unsGs6VoPWLFs6Cdac=
+
+Name: res/drawable-hdpi/cellmiddlewhitepress.png
+SHA1-Digest: nSL+j5CaFILhgjWbAElwBpvAeMg=
+
+Name: res/drawable-mdpi/bgload0.png
+SHA1-Digest: ctLADGtCb3O7I9N8nSa/c2v58eg=
+
+Name: res/drawable-hdpi/bgoptionpopup.png
+SHA1-Digest: RaWZDQcGGC34quQFdJpEwuH0YCU=
+
+Name: res/layout/scdevicecontrolrow.xml
+SHA1-Digest: jaFnVvr2FrVUU1+UtmXHyH31R+w=
+
+Name: res/drawable-ldpi/zroom_04.png
+SHA1-Digest: rj21aS38SCk86GcuDs1GqtDIBDk=
+
+Name: res/drawable-hdpi/bgstep1.png
+SHA1-Digest: WtPVyP7rKAxJ++webGElLACu2z8=
+
+Name: res/drawable-mdpi/tabmylights.png
+SHA1-Digest: qRsR4LMPrgjT/5+sHzz9IKHC2KY=
+
+Name: res/drawable-ldpi/customicon24.png
+SHA1-Digest: OdNx5YdzMcngMIKpAEjKnNA7EvQ=
+
+Name: res/drawable-hdpi/icon_savescene.png
+SHA1-Digest: X7WS62NjUv08kFrUVap+NOI8u2g=
+
+Name: res/drawable-hdpi/cellwhitenorm.png
+SHA1-Digest: pQtb7jRKRnt1VBwFA0XKGsk9cn8=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: vgTn+pEQhSLa5buaCqjDd3w3UWU=
+
+Name: res/layout-sw720dp/dimmerpopup.xml
+SHA1-Digest: oItARyX9ajQy/QZSYUJzuSxr4rg=
+
+Name: res/drawable-hdpi/settingssearch3.png
+SHA1-Digest: V293PFLABh9rBjTIbyhMdxJ6fVg=
+
+Name: res/drawable-hdpi/icon_tab_settings.png
+SHA1-Digest: PbBOVobVFb7ddXme6sPuIookQNY=
+
+Name: res/drawable-mdpi/icon_tab_settings.png
+SHA1-Digest: WLsuKkHh/U4ZTXapkpg8g6THnus=
+
+Name: res/drawable-mdpi/bgiconroom6.png
+SHA1-Digest: s+gbNll8Jfj8YYr4G+/Yyl7p+a4=
+
+Name: res/drawable-xhdpi/room_swipe_arrow_left_active.png
+SHA1-Digest: WLM/l1Ngiz5osm26o8M+AaUCcPU=
+
+Name: res/drawable/btngreyselector.xml
+SHA1-Digest: ZWRqnyI2Q0q9FjkjK+eHTm8/Nkw=
+
+Name: res/drawable-ldpi/fan_cool.png
+SHA1-Digest: HmOT1DkJQj+1Ph6bvohI2Dpu3tw=
+
+Name: res/drawable-sw600dp/roomicon4.png
+SHA1-Digest: MqPeUpaee4iU0KD9ri/YRZZPxPI=
+
+Name: res/drawable-hdpi/settingssearch1.png
+SHA1-Digest: SuNUVuCrIpDEADkY7o+53eLn6dQ=
+
+Name: res/drawable-ldpi/bg6port6.png
+SHA1-Digest: rJKwtldx0zs3wGaHUuUjkPJs9EI=
+
+Name: res/drawable-ldpi/zroom_00.png
+SHA1-Digest: h8ydnw3jpJNPFH0wxmjupwtq338=
+
+Name: res/drawable-hdpi/ic_motion_sensor.png
+SHA1-Digest: xDZf3cPgjW1Qk2/yLRmBz90VTDQ=
+
+Name: res/drawable-hdpi/bgdeviceconfig.png
+SHA1-Digest: XEYA/8EzR39aYCGPzO4fpfRQZX4=
+
+Name: res/drawable-mdpi/bgtopbar6.png
+SHA1-Digest: ikQy18qo2t0YCKo44KVsY18o9OU=
+
+Name: res/drawable-ldpi/tabmyhomeselected.png
+SHA1-Digest: M4uLlCgn7o2RNKNuEYtihb6GdH0=
+
+Name: res/layout/tab3.xml
+SHA1-Digest: mFxMAVC3HZBPAFWt7V+N+9Ih9Kw=
+
+Name: res/drawable-mdpi/networkicon.png
+SHA1-Digest: Lu1ZH/5cSMDGc3XiTVgc6q6lpEg=
+
+Name: res/drawable-mdpi/bgstep1.png
+SHA1-Digest: tpkqWlWnjsjApAVJALnmdm0nYcA=
+
+Name: res/drawable-ldpi/bgiconroom24.png
+SHA1-Digest: h8rKsbCSij8QhIVov0Xelz2JD8I=
+
+Name: res/drawable-mdpi/black_dimmer_background.png
+SHA1-Digest: oUd/gOLmyC//0rs7PCyiRZowIZU=
+
+Name: res/drawable/roundedgrayshape.xml
+SHA1-Digest: 6C6GysJiMo1sePkV0Bo+m+ZcTQg=
+
+Name: res/drawable-ldpi/bg6port4.png
+SHA1-Digest: hjx44RFq4W2nS3Y6AejBo/rTFKQ=
+
+Name: res/drawable-xhdpi/bulbbg.png
+SHA1-Digest: P5GIzY8XOXehvAF7visprguWhXA=
+
+Name: res/drawable-xxhdpi/ic_sunrise.png
+SHA1-Digest: F8N4x/lfxYuuXsrqi6RL3Pk4kEY=
+
+Name: res/drawable-ldpi/tree.png
+SHA1-Digest: CC2zE92VFshBlhWpzo530+tmJBM=
+
+Name: res/drawable-ldpi/e_car.png
+SHA1-Digest: AqrNvspWVduc+hmWsyVTGB4PafI=
+
+Name: res/drawable-mdpi/bgiconroom9.png
+SHA1-Digest: x2s/GQUerpdchaV1JZLlWMBcrJ4=
+
+Name: res/drawable-ldpi/btnscenehome.png
+SHA1-Digest: DrAIWL7cw5FnzLFm8CFLY6akovA=
+
+Name: res/layout/settingsmanageroomsrow7.xml
+SHA1-Digest: Lsm9suF1PEBn+VOOF/W4lWWiGK4=
+
+Name: res/drawable-hdpi/zroom_04.png
+SHA1-Digest: 9Mlcgc6fwGACLf3TpfYYCGtA9Ws=
+
+Name: res/drawable/item_bg_light.png
+SHA1-Digest: Jt6rXnUrqYryieh3Uuq5UZmWFao=
+
+Name: res/drawable-mdpi/bgiconroom11.png
+SHA1-Digest: gXeNoqlUy6WnKPp2uSgoz42lq8c=
+
+Name: res/drawable-hdpi/bgdialroom0.png
+SHA1-Digest: iqbMQu4YbTlXEEtVO2e510BuDsk=
+
+Name: res/drawable/redprogress.xml
+SHA1-Digest: WbIkqbR60hEg0M0GraiLd8Gj8Ig=
+
+Name: res/drawable-ldpi/bgtopbar7.png
+SHA1-Digest: H6Ibd0KSb6U9MqVSiSPW7eouy+o=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: vGictS/UYFmX8tbz7DG/BKWlA1A=
+
+Name: res/drawable-xhdpi/ic_delete_sc.png
+SHA1-Digest: YAC8a+uqsQ5lTHMy8lTvC3VHCSQ=
+
+Name: res/drawable-hdpi/cellbottomwhitenorm.png
+SHA1-Digest: ToaLjaqnjoRyxOsZqAVuNaEX6WM=
+
+Name: res/drawable-ldpi/smartcontrolschedule.png
+SHA1-Digest: JEzIByg5EMh9PxSZqBxzJp25C+w=
+
+Name: res/drawable-hdpi/bulbdimmerarc.png
+SHA1-Digest: Mn1x/P6McxI9vWKaTXcHzihz0iA=
+
+Name: res/layout/sys_info_row_header.xml
+SHA1-Digest: vg+b/cLeowUxr7c0ts144todykY=
+
+Name: res/drawable-xhdpi/thermostat_oobe_not_found.png
+SHA1-Digest: 8h1AmQBLjbxrEFTjDCfjRN0L+ek=
+
+Name: res/drawable-xhdpi/tabsettingsunselected.png
+SHA1-Digest: kHfqZ5LKf7lnPSZlyirMlgsK/v8=
+
+Name: res/drawable-xhdpi/room_swipe_arrow_right_active.png
+SHA1-Digest: VEyuXJJjCtJVsLWnbgK0qleEkXM=
+
+Name: res/drawable-mdpi/roombar31.png
+SHA1-Digest: n8jtQ+vf/FdU8DOc+yGJ79mdVEA=
+
+Name: res/drawable-ldpi/bgidentifyoff.png
+SHA1-Digest: +C9al/1f+FLSggYUGmdX36Wf8Sk=
+
+Name: res/drawable-ldpi/bgidentifyunder.png
+SHA1-Digest: kdA3JQ0DYTsGGRE0wOLvPUygQwo=
+
+Name: res/layout/scdeviceonoffdimmingrow.xml
+SHA1-Digest: gDJwdqmmtbQIra50neET7ABKXuQ=
+
+Name: org/teleal/common/swingfwk/logging/img/pause.png
+SHA1-Digest: /sR0+ZwRak613vNIQmeJc3175Fk=
+
+Name: res/drawable-hdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: 3M2Hwey0trjQpX8kpVoQgSeehjY=
+
+Name: res/layout/smartcontrolcreaterow.xml
+SHA1-Digest: 8ZNvbQ1azJ/01IBCU2tfL82zWhk=
+
+Name: res/drawable-ldpi/switch_icon.png
+SHA1-Digest: LWpuDDkaAHwA7hLvhCZ7pBX+Uy4=
+
+Name: res/layout/sccreateselectdaysofweek.xml
+SHA1-Digest: PO4REToRpCRA1Kf8aKIlYQtYvmI=
+
+Name: res/layout/scdevicecontrol.xml
+SHA1-Digest: zuSEd5NlvPOyTl82ba0bhseSc1k=
+
+Name: res/drawable-hdpi/selectgatewayethernet.png
+SHA1-Digest: FfCnebNVASPwO/4A/mqPvHGj29E=
+
+Name: res/drawable-mdpi/bgload6.png
+SHA1-Digest: tNRDvSPnYb3f1lWcjWX7hYCIKfo=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: Yx3iaXUHtOD+0Df7CZUNzPDb72o=
+
+Name: res/drawable-hdpi/roomicon21.png
+SHA1-Digest: yeJquF+F/q0w1rH1ISW1+hQcSBw=
+
+Name: res/drawable-hdpi/tabsmartcontrolunselected.png
+SHA1-Digest: IWVEp1y5ADaP86w6iqP8T52QOTE=
+
+Name: res/drawable-xhdpi/ic_preview.png
+SHA1-Digest: 7VeKu30MCCZOnKjQHZQzY62eWoM=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: dV3F0Sz7MxTs+Trhe4uXp7Q7aSs=
+
+Name: res/drawable-hdpi/bgiconroom13.png
+SHA1-Digest: Rh6E0OmCsLjcaZcwpooGrOm5Dt0=
+
+Name: res/drawable-hdpi/checkblank.png
+SHA1-Digest: BiKW1H4bQ02Q3FqEJCp3xhbz7aE=
+
+Name: res/drawable-hdpi/bgiconroom25.png
+SHA1-Digest: /qHM6S215l0rEk4tg+JW4WW14rw=
+
+Name: res/drawable-ldpi/group_unselected.png
+SHA1-Digest: 7WiRRHiboObQPVjViPX5pPxDLCA=
+
+Name: res/drawable-hdpi/cellpress.png
+SHA1-Digest: Eq0mKhlzVN2Ea1AORJi/YeDXDzg=
+
+Name: res/drawable-mdpi/btndevicepress.png
+SHA1-Digest: ZwRnBlqYFojgsC/cyviYQl8PDyA=
+
+Name: res/drawable-hdpi/bguserprofile.png
+SHA1-Digest: JWCQmdWaLEBLollAXOUQTt/u/nI=
+
+Name: res/drawable-ldpi/bgiconroom27.png
+SHA1-Digest: zSMlSqZd/ULI0DIIj72GOwNC8jE=
+
+Name: res/drawable-ldpi/tabmylights.png
+SHA1-Digest: 7RiMzwEGMJWEnx28qqloevZAGP4=
+
+Name: res/drawable-ldpi/cellgreynorm.png
+SHA1-Digest: mCJ8p+rB4y6ZWfT5Ja7RYa1Q5p0=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: res/drawable-tvdpi/ic_sunrise.png
+SHA1-Digest: 9fxZYc3gGdAHPJeJjBu9jo73TqE=
+
+Name: res/drawable-mdpi/waitindicatorbg.png
+SHA1-Digest: f5e/HUhPAH9nNEa6wq+uwf5xcQU=
+
+Name: res/drawable-hdpi/bridge_setup.png
+SHA1-Digest: EJWbs7tFR+EOW9lvJVZf7Yqz3fY=
+
+Name: res/drawable-hdpi/bgload0.png
+SHA1-Digest: V8uRXdXkMX9oq7q4/yjL/jBldQk=
+
+Name: res/drawable-ldpi/btnblacknorm.png
+SHA1-Digest: 5Ewmf+iFYzg5CJxvPKaRMdJ6jgw=
+
+Name: res/drawable/bgloadbiganim.xml
+SHA1-Digest: 8iw4305bnQ/RTLfb50YYnxw32XM=
+
+Name: assets/btndeletenorm.png
+SHA1-Digest: cxMl7CPiSOj+EeoAsivTq1WIO7M=
+
+Name: res/drawable-hdpi/customicon20.png
+SHA1-Digest: q5GbcpAQ/iggZ5IvRa8liAsYjv8=
+
+Name: res/drawable-xhdpi/settingssearch1.png
+SHA1-Digest: qD41HTIWk3qy40S/NOTu9DCVhEc=
+
+Name: res/drawable-mdpi/bgtopbar8.png
+SHA1-Digest: TZ+tOXwLZtLgw8dhJfX5w3QU2A4=
+
+Name: res/drawable-ldpi/btnroomheader0.png
+SHA1-Digest: 7NR0kgpP0BNKh48N2prAynf22ZI=
+
+Name: res/drawable-sw720dp/roomicon5.png
+SHA1-Digest: Jpl/IUoR98gB3LhJQBR1SAprx1A=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: bOteIt3E0Hj4Kz19SHCjMt6StMs=
+
+Name: res/drawable-hdpi/target.png
+SHA1-Digest: Lyg7MwLyksLOpFznYo0t9I6pCsc=
+
+Name: res/drawable-ldpi/customicon17.png
+SHA1-Digest: ziebuq1JHXC4vVAYewW+XG8PXuw=
+
+Name: res/drawable-mdpi/roombar26.png
+SHA1-Digest: h+rzz9utirkN3D0hc9Xf3NO9WMc=
+
+Name: res/drawable-hdpi/bgstep2complete.png
+SHA1-Digest: fJvoBmgLoWHFlrJ0zmVKWmbv1VA=
+
+Name: res/layout/lightsandfixturescreatenewroom.xml
+SHA1-Digest: 7BOeE0yRENUiJijVWkoxlemvOWE=
+
+Name: res/drawable-hdpi/slider_bar.png
+SHA1-Digest: pFG/Xzum77/iYqjU8L4v6n+/YPg=
+
+Name: res/drawable-ldpi/bgdialroom3.png
+SHA1-Digest: 0nxN1WzVr8LIjfOiW3vB5mCulUU=
+
+Name: res/drawable-ldpi/customicon12.png
+SHA1-Digest: TfUOROhN/k6uPObGApWcfQNAS48=
+
+Name: res/drawable-sw600dp/ic_set_time.png
+SHA1-Digest: SbprQ5cUBVUMs38P4Z6mUTsfq4s=
+
+Name: res/layout/oobe_smart_control_createroomdevice.xml
+SHA1-Digest: K3lWkIdykC8+vOcRexaI26QN/7I=
+
+Name: res/drawable/tabmylightssettings.xml
+SHA1-Digest: E0et34S8Hn55VvOowTrDo7kmMwg=
+
+Name: res/drawable-ldpi/target.png
+SHA1-Digest: TNJYEgypo9FGXbAmUk+3FoFXK08=
+
+Name: res/drawable-hdpi/roomicon5.png
+SHA1-Digest: Jpl/IUoR98gB3LhJQBR1SAprx1A=
+
+Name: res/drawable-ldpi/bg5port2.png
+SHA1-Digest: 1SYUEXozC1H5awdGzbx/3bWXkxM=
+
+Name: res/layout/settingsoobecustomname.xml
+SHA1-Digest: w+ccbgR6hpRx+n5jPeG+UJpqlY8=
+
+Name: res/drawable-hdpi/cellbottomwhitepress.png
+SHA1-Digest: eFnUsqIVjrKycsJJGXVjUIoIWG8=
+
+Name: res/drawable-hdpi/customicon29.png
+SHA1-Digest: 4eYQ/hGCgafAxfJnqrSc3xq1nvY=
+
+Name: res/drawable-hdpi/bgpickercoverbig.png
+SHA1-Digest: my7x9CBp9emN2NJ1ny9GT+lghG8=
+
+Name: res/layout/sccreatesetsunrow.xml
+SHA1-Digest: 2aElrqHQTiaVVlLSk60nYeqF0yQ=
+
+Name: res/drawable-ldpi/next_pressed.png
+SHA1-Digest: JZzeVo4qHxBsxuSYEhMFWAkSdp4=
+
+Name: res/drawable-mdpi/switch_icon.png
+SHA1-Digest: SjyVfIjaXkRSVfUrPq/B4Sy7lr4=
+
+Name: res/drawable-hdpi/btndevicepress.png
+SHA1-Digest: t8NU3pec7+w8WIj9/I8dvNTPRts=
+
+Name: res/xml/myhome_widget_info.xml
+SHA1-Digest: u7UNMysfr28SGgZqkhTSBrYAvTc=
+
+Name: res/layout/network_list_row.xml
+SHA1-Digest: tW0CasX5um4lLAY1zzIYVNx59Fc=
+
+Name: res/drawable-mdpi/bgiconroom28.png
+SHA1-Digest: a3wE9nc3KeFaOW+xC8aTwSzLwXk=
+
+Name: res/drawable-sw600dp/roomicon9.png
+SHA1-Digest: kCmg20NM9QGx5sq/VeqDkC0uKZg=
+
+Name: res/layout/lightsandfixtureschooseicon.xml
+SHA1-Digest: 1Oh4Asz8QrsDK58Ya3LFC9LWaCE=
+
+Name: res/drawable-hdpi/room_swipe_arrow_left_disabled.png
+SHA1-Digest: tyJLBZrWbjrNcnDMitFegMndMZY=
+
+Name: res/layout/settingsoobesearch_eon.xml
+SHA1-Digest: /2LOIbY0ZZ3ei0ID6sA+qrQ7Mf0=
+
+Name: res/anim/slideleftout.xml
+SHA1-Digest: tVNU4Y7cStwApbR1OlYzhaQLXyw=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: VSw7l3gn6Xmrfp6USiW4t6QJmPw=
+
+Name: res/drawable-xhdpi/switch_icon.png
+SHA1-Digest: Ms1zeQoGvsbA0+0Po6Lqa4PiSgs=
+
+Name: res/drawable-hdpi/bgtopbar0.png
+SHA1-Digest: 87mqbpwpHw6w5ypOrQZ0OhNluJw=
+
+Name: res/drawable-mdpi/btnloginnorm.png
+SHA1-Digest: zb99oPknyS9mtBoSyBL+8K28DGs=
+
+Name: res/drawable-hdpi/bgload4.png
+SHA1-Digest: rRhMCJKGD4o2BiVXTmTOseNAoxY=
+
+Name: res/drawable-hdpi/bgtopbar8.png
+SHA1-Digest: LF2fvbJINp6x71XjYnNNCzqkS10=
+
+Name: org/teleal/common/swingfwk/logging/img/debug.png
+SHA1-Digest: R/Fldbfhzd2VBHl4yNSLrcWVRjk=
+
+Name: res/layout/settings.xml
+SHA1-Digest: L7gZOIZQTIxZk/kx4qjDvKOkYGU=
+
+Name: res/drawable-ldpi/customicon32.png
+SHA1-Digest: wcSJmEog1teTuYsH1qh24cuvE64=
+
+Name: res/drawable-mdpi/smartcontrolcustom.png
+SHA1-Digest: 2/KjQAV4BEtKpjxjbQDYmDC22Dg=
+
+Name: res/drawable-hdpi/ic_set_time.png
+SHA1-Digest: C2wnd0Qi39qHa4hojetBNhdcw1w=
+
+Name: res/drawable-xhdpi/icon_tab_settings.png
+SHA1-Digest: Ky8aU0FyHB0XcWD+hZiMkdG6VhI=
+
+Name: res/drawable-mdpi/bg6port2.png
+SHA1-Digest: foggxJojwzwQJTq2lyLy//p/0FI=
+
+Name: res/drawable-hdpi/thermostat_oobe_not_found.png
+SHA1-Digest: G5uLnQEnWi/JEenoN/bNbyPaCTw=
+
+Name: res/drawable/middlecellshape.xml
+SHA1-Digest: N2sYqNBYk4S1PY9fLSUyLBz7vq4=
+
+Name: res/drawable-hdpi/customicon32.png
+SHA1-Digest: tHz/My3MiNQwtbL7dIG7fYCcA6Q=
+
+Name: res/drawable-mdpi/bgiconroom30.png
+SHA1-Digest: 0aDkwku29lAd8l2+TF7asC1j8Ls=
+
+Name: res/drawable-hdpi/fan_heat.png
+SHA1-Digest: i6sX+0pfdfIMZ8fyCMjIRS5UBz8=
+
+Name: res/drawable-mdpi/tabsettingsunselected.png
+SHA1-Digest: Lhs5nG/TzTbMZI2S2ww45WCzXJE=
+
+Name: res/drawable-ldpi/bgtopbar.png
+SHA1-Digest: TJdUu0qwBirvrdz7ijPba4QehNY=
+
+Name: res/drawable-tvdpi/ic_set_time.png
+SHA1-Digest: h41ZNuCiOm9835yZW0mmG4IxBXA=
+
+Name: res/drawable-hdpi/wirelesstroubleshoot_step2.png
+SHA1-Digest: CM5ZfjUrHsC3t5iMwqIpW79QwAw=
+
+Name: res/drawable-hdpi/roomicon14.png
+SHA1-Digest: af6iWRrRtHRpaKgq1ISQ2E0twwM=
+
+Name: res/drawable-ldpi/next_normal.png
+SHA1-Digest: CR+3MTMXFyFmM8LCy7d0yii7NTY=
+
+Name: res/drawable-mdpi/tabsmartcontrolselected.png
+SHA1-Digest: zfPmWDBfS+v2qnYVcCH2Q3iDe+w=
+
+Name: res/drawable-mdpi/settingssearchbg.png
+SHA1-Digest: 0ZwFddInhffQQ8kAVsu4vQc7jms=
+
+Name: res/drawable-ldpi/customicon29.png
+SHA1-Digest: kzUm9UM8tfUpu+Zem9jvvUX2HnU=
+
+Name: res/drawable-hdpi/home.png
+SHA1-Digest: jZZy7uRYlYigbHDYVw+V/IbE19o=
+
+Name: res/layout/row_reset_thermostat_schedule.xml
+SHA1-Digest: bEMMvVwJPobQ/4acU2B7wCLm4bU=
+
+Name: res/drawable/btnsettingsselector.xml
+SHA1-Digest: HcQ5V/SdFb+p+OHcQKqFo2Sf5SQ=
+
+Name: res/drawable-mdpi/bgloadbig1.png
+SHA1-Digest: a0ux+30AZbEXTbPh6RNDq8ypfhg=
+
+Name: res/drawable-mdpi/bgiconroom31.png
+SHA1-Digest: etZrNuO87Qllo3laaLjt4O6AULE=
+
+Name: res/drawable-mdpi/sliderthumb.png
+SHA1-Digest: xxycUETE8G9zKKGp7WxMnZ7yWPM=
+
+Name: res/layout/resetpassword_dialog.xml
+SHA1-Digest: 7eMh5p7B7YtOUEtlgsF8kiV5ewg=
+
+Name: res/drawable-sw720dp/slider_bar.png
+SHA1-Digest: pFG/Xzum77/iYqjU8L4v6n+/YPg=
+
+Name: res/drawable-mdpi/roombar4.png
+SHA1-Digest: SrlCFuD/TzCkM/MCsVgAK2W3tBM=
+
+Name: res/drawable-mdpi/ic_secure.png
+SHA1-Digest: KwjjgXdKC1SdG6fmN9PYgS4luzM=
+
+Name: res/drawable-mdpi/bgpoweroff.png
+SHA1-Digest: LYG9MVZvluvoVQZDiVCVZVY2EPk=
+
+Name: res/layout/settingsmanagerooms.xml
+SHA1-Digest: 7Sdhdwtu4bkYcFAEci+NbPgw178=
+
+Name: res/drawable-mdpi/roomicon9.png
+SHA1-Digest: tFUJh7I5CIEZhs8i26KKt/gAK44=
+
+Name: res/drawable-ldpi/customicon15.png
+SHA1-Digest: ACfJjIr7R9hCg3OiKZr5Ej8MN4s=
+
+Name: res/drawable-ldpi/bgtopbar4.png
+SHA1-Digest: 0rAFLB1ONjMX6kl8T2gvXoIyxr8=
+
+Name: res/drawable-ldpi/customicon2.png
+SHA1-Digest: PnNJCelKXuIYDrXWizar34kEQGA=
+
+Name: res/drawable-ldpi/bgiconroom5.png
+SHA1-Digest: LG3N2cSlnzm8tkOpRYEIze1vd18=
+
+Name: res/drawable-ldpi/bgload8.png
+SHA1-Digest: Iws/azZ6+eTprpPzmxEgEtl4q9E=
+
+Name: res/drawable-hdpi/wiredtroubleshootplug.png
+SHA1-Digest: BhIGd0o+9EVacR78yH/K7pOEYpk=
+
+Name: res/drawable-mdpi/bg5port1.png
+SHA1-Digest: x9mkc+p9x0D89SoTYnb1YleAWPA=
+
+Name: res/drawable-ldpi/icon_tab_settings.png
+SHA1-Digest: 2prNmn2tiqvLNKExqNuniEeTN7E=
+
+Name: res/drawable-ldpi/away.png
+SHA1-Digest: ArigIvsa9198ps5ploW1pg79KnQ=
+
+Name: res/drawable-mdpi/roombar10.png
+SHA1-Digest: PGPE5GyqYZwzeR2m2tpikXXR3VA=
+
+Name: res/layout/lightgroup.xml
+SHA1-Digest: dSPdN8FKIHI6MEIgEyrsG9haA9k=
+
+Name: res/drawable-hdpi/bgloadbig3.png
+SHA1-Digest: jNIkBsEZMIS5Bw7JUkbU2pAzTq4=
+
+Name: res/drawable-mdpi/selectgatewayethernet.png
+SHA1-Digest: w66lUNktTuYKpdOPbjXOQo/DitI=
+
+Name: res/drawable-hdpi/bgiconroom7.png
+SHA1-Digest: lk4m/2zhRopkTHrMtpxlvQnVVqk=
+
+Name: res/layout/bridge_setup_lighting_bridge.xml
+SHA1-Digest: QIItRP8nx8XuvGZTyxdLVuDlHio=
+
+Name: res/layout/settingsoobesearch.xml
+SHA1-Digest: n0O9QhcY9A9K2yGGDrJc21JkOWc=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: YmWnuLFTsxsuwRBtvQiQ6Y6KnsI=
+
+Name: res/drawable-hdpi/e_car.png
+SHA1-Digest: nWyMVkISgeRsoSRIJEIyo4oakLQ=
+
+Name: res/drawable-hdpi/tabsmartcontrolselected.png
+SHA1-Digest: CYptAD2AUkO9/reMWshFZzl70RY=
+
+Name: res/drawable-hdpi/zroom_00.png
+SHA1-Digest: G0l16xXzPs3u3jGttwqnpqsTwKQ=
+
+Name: res/drawable-mdpi/syncgateway.png
+SHA1-Digest: DzxlX+LpW6Q+CQliYYgaRowWDlg=
+
+Name: res/drawable-ldpi/bgload1.png
+SHA1-Digest: lEgANO3WtbOxxegsqoOz0ePOwdk=
+
+Name: res/drawable-hdpi/roomicon4.png
+SHA1-Digest: MqPeUpaee4iU0KD9ri/YRZZPxPI=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: rk4+RrLhcP6lThhrsLhux6sOaW0=
+
+Name: res/drawable-hdpi/bgdialroom9.png
+SHA1-Digest: CX+89wWTluFkR9ra8wMDGM3+J6A=
+
+Name: res/layout/smartcontrolconfirmrow.xml
+SHA1-Digest: 9zfqjG1B4uo2cvGBsxy/cxYWYww=
+
+Name: res/drawable-ldpi/bgiconroom1.png
+SHA1-Digest: D8UPlVG6j5ezwZAlJwH4FyzjXCY=
+
+Name: res/layout/sccreatemasterswitch.xml
+SHA1-Digest: MK7+7Ld/CJ/nJ79/oCmQmc8m9eo=
+
+Name: res/drawable-ldpi/bgiconroom17.png
+SHA1-Digest: 2WwWYpDOXofNjAAb1GxsTBoEtDs=
+
+Name: res/drawable-hdpi/bg6port3.png
+SHA1-Digest: kJAaf0FRxdS2gcPh9/NidAFh3aA=
+
+Name: res/layout/depot_link_view.xml
+SHA1-Digest: tJp1DcVbEgmRi1WbL8EwLU8ZedE=
+
+Name: res/drawable-tvdpi/ic_sunset.png
+SHA1-Digest: ro3rhRRmjvc5AVt5K7ZakGeUKfU=
+
+Name: res/drawable-xhdpi/wirelesstroubleshoot_step3.png
+SHA1-Digest: cUuJn83jLytCrT1PFPm94GtYEHc=
+
+Name: res/drawable-hdpi/group_selected_icon.png
+SHA1-Digest: L74pkxYXdslRgaCvhmvW0g14VcY=
+
+Name: res/drawable-hdpi/securenetworksettings.png
+SHA1-Digest: AHM0PLU3/r0NhkmB1BSKzZVPCq0=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: BPO7rZUizcNQMnWeRsW2OCnWgH4=
+
+Name: resources.arsc
+SHA1-Digest: bI0At+dyAtWU2T0fmKeUmsjc5ws=
+
+Name: res/drawable-ldpi/save_scene.png
+SHA1-Digest: hin19054dVeDv6OUssrjCvdi5bg=
+
+Name: res/drawable-ldpi/home_depot_button.png
+SHA1-Digest: 2rrBLQxnUObA7+HHnZNqGMkh1K8=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: Wx/93xRl4fEGrkADqVPH6ShswfU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: +YXDOKcowsglHKYLvgWRriKCdQI=
+
+Name: res/drawable-hdpi/customicon5.png
+SHA1-Digest: 8ShUBY3aTvcq2cTpJT2hCbI6lfw=
+
+Name: res/drawable-mdpi/bg5port5.png
+SHA1-Digest: s1WYtXuhscb8wUuTkERZ8cZ6yDY=
+
+Name: res/layout/lightedit.xml
+SHA1-Digest: a/1ibjw075YWAHUYMYfl2qw6Q7U=
+
+Name: res/drawable-hdpi/customicon14.png
+SHA1-Digest: G0l16xXzPs3u3jGttwqnpqsTwKQ=
+
+Name: res/drawable-mdpi/waitindicatorbase.png
+SHA1-Digest: 0XXTe56xcPwb+ku7ueHOqGAVmj4=
+
+Name: res/drawable-ldpi/wirelesstroubleshoot_step1.png
+SHA1-Digest: 6rIj9ZlDy6miM6c8rocARUXna0E=
+
+Name: res/drawable-hdpi/bgload8.png
+SHA1-Digest: qhtTI5BzaqsmvqSg7LVSgld7t8c=
+
+Name: res/xml/listview_widget_info.xml
+SHA1-Digest: 3iI61MjXaWMmqf0ljAuKpwY1MUk=
+
+Name: res/drawable-hdpi/cellgreypress.png
+SHA1-Digest: yxjsnCnde/FGZRHJgqsy/YUCSoY=
+
+Name: res/drawable-mdpi/bulbdimmerslider.png
+SHA1-Digest: //OmTyk40JTCirtc5k6H4XYU6U4=
+
+Name: res/drawable-ldpi/home.png
+SHA1-Digest: sSgAnuWsN+tfmIZI0/aqHZWR8oI=
+
+Name: res/drawable-ldpi/help_button.png
+SHA1-Digest: ZQjZ7hoXRfJXd3yu+GwdVDGY240=
+
+Name: res/drawable-mdpi/bg5port3.png
+SHA1-Digest: s9x5V24cZfzrVoTuut+W/1g989M=
+
+Name: res/color/btngreyselector.xml
+SHA1-Digest: er4L1oYL8+BrdOrOZPb8G3snWZU=
+
+Name: res/layout-sw600dp/login.xml
+SHA1-Digest: GYL+HUTiQVfwBEMAZQZYDxKwRq0=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: DaJxV90/VxpBGkM1MyrHKtbgThc=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: ZDogSdlgVekmFIAbKguvig7+XGg=
+
+Name: res/layout/swipe_overlay_help.xml
+SHA1-Digest: fbzudIDnH0n2l2BHt/ZrcUgF6dc=
+
+Name: res/drawable-ldpi/waitindicatorbase.png
+SHA1-Digest: 0XXTe56xcPwb+ku7ueHOqGAVmj4=
+
+Name: res/drawable-ldpi/zroom_01.png
+SHA1-Digest: wkejgaD2lXWAvGDnqfVdV11BWLk=
+
+Name: res/drawable-hdpi/save_scene.png
+SHA1-Digest: rRP7aebNErxPqsGKw2+nbW+mwJs=
+
+Name: res/drawable-ldpi/bgidentifyon.png
+SHA1-Digest: GLTjYM4W9DVaN6fD86t2l/8mT5M=
+
+Name: res/drawable-hdpi/back_normal.png
+SHA1-Digest: x4Cxa+lvsdl/B3PxxG7hYRtzgHs=
+
+Name: res/drawable/roundedbuttoncontrolnormalshape.xml
+SHA1-Digest: KkpE/IaJH9QmUB5erIgYKhQ7bbw=
+
+Name: res/drawable-mdpi/bgsetupthermostat.png
+SHA1-Digest: gOIWx4FDCZzuj/Wn6fUo6+3L0EE=
+
+Name: res/drawable-ldpi/bulbbg.png
+SHA1-Digest: eTqSNg/q7y1MCn1xNxfOs8kAvhg=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: 1060dDY2yP+KIkFBI+OtzcjouYI=
+
+Name: res/drawable-hdpi/smartcontrolmanual.png
+SHA1-Digest: y8scmr65a4l8uddn6/4LpeYsEck=
+
+Name: res/drawable-ldpi/bgiconroom14.png
+SHA1-Digest: c8AlLtpUBPo6QsVrRDwNvq8u5iE=
+
+Name: res/drawable-mdpi/bgiconroom19.png
+SHA1-Digest: 2kMu3EG3Sc7CkWphoyPID/OQBtQ=
+
+Name: org/teleal/common/swingfwk/logging/img/configure.png
+SHA1-Digest: wVg94wzqBeV004gjJX/JDYNlRBA=
+
+Name: res/drawable/btndemocamselector.xml
+SHA1-Digest: ug5MaPCeouqKFto/FI4CzWYEL5A=
+
+Name: res/drawable-sw720dp/roomicon3.png
+SHA1-Digest: mTdtR66oaM+uTIA0QroarA5t5V4=
+
+Name: res/drawable/roundedfootercellshape.xml
+SHA1-Digest: t/ZiS+ts7QxlbcBsURaIYGhtuT0=
+
+Name: res/drawable-mdpi/dimmer_grab.png
+SHA1-Digest: dQvUYzrIP67YaHYLbqUgPZ8G1zU=
+
+Name: res/drawable-hdpi/settingssearch2.png
+SHA1-Digest: ssvHOl63YUw869mbFUc/Uf8rpJo=
+
+Name: res/drawable-hdpi/roomicon30.png
+SHA1-Digest: vr3ZrJMDpl0d/P0rSCkNeWzi/ZQ=
+
+Name: res/drawable-ldpi/customicon25.png
+SHA1-Digest: vw1sf8JZdIvGeqsMRCf/x65MhPo=
+
+Name: res/layout/lightsandfixtureschooseiconrow.xml
+SHA1-Digest: NDszswc5acoZMA7fjG+DVujBOqQ=
+
+Name: res/drawable-mdpi/cellgreypress.png
+SHA1-Digest: XXaXfZtkZrMaWcNm7p4oB4sUEVE=
+
+Name: res/layout/sccreateselecticon.xml
+SHA1-Digest: Y4cE13ux+nkEySLGhDF2zn2mfJc=
+
+Name: res/drawable-ldpi/rainy.png
+SHA1-Digest: LaL3fm2lHrrSWZfRe3ROseWK2q0=
+
+Name: res/layout/sccreatesetschedulerow.xml
+SHA1-Digest: m9xFbS/UHheSv5h4QwDm1fFL1YA=
+
+Name: res/drawable-xhdpi/room_swipe_arrow_right_disabled.png
+SHA1-Digest: 9eTOSLMiFSCTOl+OrtWHCBlwTTM=
+
+Name: res/drawable-mdpi/bgload2.png
+SHA1-Digest: TCVNikmGNHywW4FWW84vjnaYdmI=
+
+Name: res/drawable/celltopselector.xml
+SHA1-Digest: +KCO+yzS+A0kKTJggcMp/vZe7EU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: UsY+c7jSRS1f1aEh0HgE8187rLI=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: QvCsDHmHTCeFtKK23z0HRetpRJI=
+
+Name: res/drawable/bgblackgradientshape.xml
+SHA1-Digest: tTsd5UgUn6gRQbju622dP3FUzHc=
+
+Name: res/drawable-hdpi/bgload.png
+SHA1-Digest: R3BnVTsR1B+mzmhwStQZGVCB1TU=
+
+Name: res/layout/widgetsmartcontrolactivating.xml
+SHA1-Digest: bORWEuOAECis3BINj/NuLmTprUQ=
+
+Name: res/drawable-mdpi/bgloadbig6.png
+SHA1-Digest: dydxkbijHktb9e0eRV/Sz3Yd+0Y=
+
+Name: res/drawable-mdpi/btnsettingspress.png
+SHA1-Digest: /tT3rVPivL+fjSyXXzWRMXKbMpI=
+
+Name: res/layout/wired_troubleshoot_ethernet_ac_adapter.xml
+SHA1-Digest: Uwufm2xIGqDBcfNBeQ1/ah445Mo=
+
+Name: res/layout-small/guide.xml
+SHA1-Digest: DT96gLWFcPS8XZvp74IXh/lXOSE=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: UsY+c7jSRS1f1aEh0HgE8187rLI=
+
+Name: res/drawable-mdpi/ic_thddark.png
+SHA1-Digest: FNOEphWG5vl6RCL7QuUT8+6Dq6E=
+
+Name: res/drawable-mdpi/bgiconroom12.png
+SHA1-Digest: 67hWWneWXojKaDQDUg0v3MMcFsY=
+
+Name: res/drawable-mdpi/room_swipe_arrow_left_disabled.png
+SHA1-Digest: dYj3/rB7iY+VNz0AdUJ5NZglaWc=
+
+Name: res/drawable-ldpi/customicon9.png
+SHA1-Digest: QgHZOWF+aGamXteDuz34/SqiwkA=
+
+Name: res/drawable-xhdpi/settingssearch2.png
+SHA1-Digest: PimSJuiK34efjM9SwIKTwdF8e8E=
+
+Name: res/drawable-mdpi/bgiconroom8.png
+SHA1-Digest: b+CRIlsZegUMUb5YGGIchX+U7fQ=
+
+Name: res/drawable-xhdpi/wiredtroubleshootethernet.png
+SHA1-Digest: pGw+M/ovHV66DzDwgcHIFyTJDto=
+
+Name: res/drawable-hdpi/roomicon16.png
+SHA1-Digest: 32ZWTVEl8CYexOK5Nkvc4pGmXws=
+
+Name: res/drawable-ldpi/bgiconroom10.png
+SHA1-Digest: yVS3RmRne+QQMyHaGQ9XY1ze+ao=
+
+Name: res/layout/settingsmanageroomsrow4.xml
+SHA1-Digest: T5j2Tik4YJgnuIufaeFBNfsOkmk=
+
+Name: res/drawable-hdpi/bgiconroom31.png
+SHA1-Digest: GwCklgihbIHmv4+AxTwzNEbEXKM=
+
+Name: res/drawable-mdpi/back_pressed.png
+SHA1-Digest: /J4lbi0MteUWMR+YraShDu+UgkA=
+
+Name: res/drawable-mdpi/help_button.png
+SHA1-Digest: VJuEdqJi/HniALDEWcNRQzz0ZTs=
+
+Name: res/drawable/tabsettingsselector.xml
+SHA1-Digest: E0et34S8Hn55VvOowTrDo7kmMwg=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: res/drawable-mdpi/bgiconroom22.png
+SHA1-Digest: PoluHE4XJcSOVlhN0j0Yl7giq1s=
+
+Name: res/drawable-ldpi/customicon19.png
+SHA1-Digest: QmKqibTmyp6vfbsLdzr5IMD9dhA=
+
+Name: res/drawable-mdpi/ic_right_arrow.png
+SHA1-Digest: 3v6rnbQXgrSm1bYDIQeudVBYzoE=
+
+Name: res/drawable-ldpi/btnpopupclosepress.png
+SHA1-Digest: UOEyAmjUs9T/GIr6pxJPkrAgvUw=
+
+Name: res/drawable-ldpi/waitindicatorbg.png
+SHA1-Digest: 3dl2xzEqqw3NPtrdDG/Q7qceMLE=
+
+Name: res/drawable-hdpi/bgoptionsection.png
+SHA1-Digest: 3O+7fCEpTf22WIknxQAQa6YD2v8=
+
+Name: res/drawable-xhdpi/ic_secure.png
+SHA1-Digest: f4W3hpTMIdm+oMhQ02TbqQZAY0s=
+
+Name: res/drawable/roundedgreenshape.xml
+SHA1-Digest: rcFIBNUwP6hDgt0udCvsyhtn3ps=
+
+Name: res/drawable-mdpi/roomicon2.png
+SHA1-Digest: jCOm4J+JxnSIDfGB+DiiMw2P0NU=
+
+Name: res/drawable-ldpi/room_swipe_arrow_right_disabled.png
+SHA1-Digest: g95rkHFP9yjnPqbLGJb6yrv5+oU=
+
+Name: res/drawable-ldpi/bgpowerselect.png
+SHA1-Digest: vPnwEz6QPkaTYE+lIsa1ttSd1g0=
+
+Name: res/drawable-hdpi/roomicon23.png
+SHA1-Digest: bquUwM3P5OJBQXH3hAhQHXLQSy0=
+
+Name: res/drawable-hdpi/bgiconroom18.png
+SHA1-Digest: WR+4iKuRVxaUU1pORJj9l7rT7xM=
+
+Name: res/drawable-hdpi/vert_dimmer_bg.png
+SHA1-Digest: N9Iy0hnDFijm63WMbOn3ZwH7vZs=
+
+Name: res/layout/oobe_thermostat_locate_room_item.xml
+SHA1-Digest: VoZt2aShhMH2WGwFMRKdegVLFAU=
+
+Name: res/drawable-hdpi/btnpopupclosenorm.png
+SHA1-Digest: Vl/yQ8ZH/97jRQeCBrVIY6P0JgU=
+
+Name: res/drawable-hdpi/system_information.png
+SHA1-Digest: YxOD5Jgz4uiTsBkAE3TiqNGBxks=
+
+Name: res/drawable-mdpi/btnpopupclosenorm.png
+SHA1-Digest: b8TCJk54EOowZPF8KUprm/oTZhQ=
+
+Name: res/drawable-xxhdpi/ic_wifi_full.png
+SHA1-Digest: MLLk0NLxAMgHji/UkzW2bDVkjXc=
+
+Name: res/drawable-mdpi/tabsettingsselected.png
+SHA1-Digest: L5fiLJ9bBI8BsJcvvjaGlXRIGIQ=
+
+Name: res/drawable-mdpi/bgtopbar.png
+SHA1-Digest: YljbhQI7YfBAqSCqyoHHQWEKp58=
+
+Name: res/drawable-hdpi/bgiconroom14.png
+SHA1-Digest: igy+Mhh/dfYWenYAc7epiiuW8mg=
+
+Name: res/layout/fragment_container.xml
+SHA1-Digest: a8foUYQZryARDyzTNULADaAo2hY=
+
+Name: res/layout/smartcontrolbtntogglerow.xml
+SHA1-Digest: MkFx1BbSMQ/BmxXx/zCzJdZUTi8=
+
+Name: res/drawable-mdpi/roomicon4.png
+SHA1-Digest: wvqT3Kk+epNd6UYO6VwIDqSFFKs=
+
+Name: res/drawable-xhdpi/guide_up.png
+SHA1-Digest: VlxDSLwsZyCN4j4G8RZJpiUqwD0=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: CdS2JYcO2aYMRPs8uE6z0+hK3SA=
+
+Name: res/drawable-ldpi/customicon1.png
+SHA1-Digest: ngPC5wTgqVI8lANtEQ2cOoYtJSw=
+
+Name: res/drawable-hdpi/customicon7.png
+SHA1-Digest: HAWCngSAIGNrZ+kE1BU5Oy15DS0=
+
+Name: res/drawable-ldpi/btnclosepress.png
+SHA1-Digest: y3/AhQY3oLnTKDDg/zDDH1dGpPY=
+
+Name: res/drawable-ldpi/tabsmartcontrolunselected.png
+SHA1-Digest: lPiRxllEgH4YcPdv24qE+bqzFQk=
+
+Name: res/drawable-hdpi/cellroomnorm0.png
+SHA1-Digest: X4L2kLlyTj029eLSh5Dmo4aLnJ8=
+
+Name: res/drawable-hdpi/bgiconroom15.png
+SHA1-Digest: KCUw1EB2XyRWNF5uURi51+HaGts=
+
+Name: res/drawable-hdpi/room_swipe_arrow_right_disabled.png
+SHA1-Digest: kk3BlzBXlfwK7SQX3WaDtsJ/TvE=
+
+Name: res/drawable-hdpi/bgiconroom1.png
+SHA1-Digest: p1xzdThzj6ayb3B4WB5G6ariUzk=
+
+Name: res/drawable-hdpi/bgload3.png
+SHA1-Digest: skLDB0yHWOWxfJBg6SOYKjVOnEI=
+
+Name: res/drawable-hdpi/grey_arrow.png
+SHA1-Digest: Cus8PDSt/qKjXEliS2uCCZo2Dog=
+
+Name: res/drawable-xhdpi/arrow_down.png
+SHA1-Digest: S1r6l2bbONO3wsjk1oOR9WQrRXY=
+
+Name: res/drawable/roundedbuttonnormalshape.xml
+SHA1-Digest: qNKUugop8PGvmuYkbifH1Y8XU4M=
+
+Name: res/drawable-hdpi/remote_selected.png
+SHA1-Digest: uUGuwOHOcRWqisaDt9Y5xb7kQ40=
+
